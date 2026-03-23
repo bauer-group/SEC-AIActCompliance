@@ -95,7 +95,7 @@ Das AI Act Compliance Statement folgt einem definierten JSON-Schema:
     "generated_at": "[ISO 8601 Timestamp]",
     "generator": "[Tool oder manuell]",
     "statement_version": "[Version des Statements]",
-    "regulation": "EU/2024/1689"
+    "regulation": "(EU) 2024/1689"
   }
 }
 ```
@@ -114,7 +114,7 @@ Das AI Act Compliance Statement folgt einem definierten JSON-Schema:
 | `ai_system.type` | enum | `standalone`, `embedded`, `gpai_based` |
 | `ai_system.identifier` | string | Eindeutige System-ID |
 | `ai_system.intended_purpose` | string | Bestimmungsgemäße Verwendung |
-| `risk_classification.risk_level` | enum | `minimal`, `limited`, `high_risk` |
+| `risk_classification.risk_level` | enum | `minimal`, `limited`, `high_risk` (kein `prohibited` — verbotene Systeme erhalten keine Konformitätserklärung) |
 | `conformity_assessment.procedure` | enum | `annex_vi`, `annex_vii` |
 | `conformity_assessment.assessment_date` | string (Datum) | Datum der Konformitätsbewertung |
 | `conformity_assessment.declaration_date` | string (Datum) | Datum der DoC |
@@ -269,7 +269,7 @@ Das AI Act Compliance Statement folgt einem definierten JSON-Schema:
     "generated_at": "2026-07-15T09:00:00Z",
     "generator": "manual",
     "statement_version": "1.0.0",
-    "regulation": "EU/2024/1689"
+    "regulation": "(EU) 2024/1689"
   }
 }
 ```

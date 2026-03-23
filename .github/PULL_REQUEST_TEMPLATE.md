@@ -9,16 +9,16 @@
 - [ ] 📖 Neue Dokumentation / Neues Kapitel
 - [ ] ✏️ Aktualisierung bestehender Dokumentation
 - [ ] ⚙️ Workflow / Automation
-- [ ] 📋 Template (ENISA, Incident, Risk Assessment, etc.)
+- [ ] 📋 Template (Inventar, Risikoklassifizierung, Konformität, etc.)
 - [ ] 🔧 Konfiguration / Build
 - [ ] 🐛 Fehlerbehebung
 
-## CRA-Bezug
+## AI-Act-Bezug
 
-<!-- Welche CRA-Artikel oder Anforderungen betrifft diese Änderung? -->
+<!-- Welche AI-Act-Artikel oder Anforderungen betrifft diese Änderung? -->
 
-- **CRA-Artikel:** <!-- z.B. Art. 10 Abs. 6, Art. 13 Abs. 23 -->
-- **Betroffene Kapitel:** <!-- z.B. Kap. 3 Vulnerability Management -->
+- **AI-Act-Artikel:** <!-- z.B. Art. 9, Art. 50, Art. 99 -->
+- **Betroffene Kapitel:** <!-- z.B. Kap. 4 Hochrisiko-KI -->
 - **Compliance-Matrix:** Keine Änderung / Aktualisiert
 
 ## Änderungen

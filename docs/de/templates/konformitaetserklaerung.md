@@ -19,8 +19,11 @@ Diese Erklärung wird aus der maschinenlesbaren Datei `.compliance/ai-act-statem
 | Feld | Wert |
 |------|------|
 | Bezeichnung | [ai_system.name] |
+| Handelsname / Marke | [ai_system.trade_name oder „Entfällt"] |
 | Typ | [ai_system.type] |
 | Version | [ai_system.version] |
+| Modell / Variante | [ai_system.model oder „Entfällt"] |
+| Chargen- / Seriennummer | [ai_system.serial_number oder „Entfällt"] |
 | System-ID | [ai_system.identifier] |
 | Bestimmungsgemäße Verwendung | [ai_system.intended_purpose] |
 
@@ -64,15 +67,20 @@ Diese Erklärung wird aus der maschinenlesbaren Datei `.compliance/ai-act-statem
 |----------------------|--------------|
 | [harmonised_standards.identifier] | [harmonised_standards.description] |
 
-**7. Konformitätsbewertungsverfahren:**
+**7. Mitgliedstaaten, in denen das KI-System in Verkehr gebracht oder in Betrieb genommen wurde:**
+
+[Auflistung der Mitgliedstaaten oder „EU-weit"]
+
+**8. Konformitätsbewertungsverfahren:**
 
 | Feld | Wert |
 |------|------|
 | Verfahren | [conformity_assessment.procedure] |
 | Notified Body | [conformity_assessment.notified_body oder „Entfällt (Annex VI)"] |
+| Zertifikatsnummer | [conformity_assessment.certificate_id oder „Entfällt"] |
 | Datum der Bewertung | [conformity_assessment.assessment_date] |
 
-**8. Transparenz und Registrierung:**
+**9. Transparenz und Registrierung:**
 
 | Feld | Wert |
 |------|------|
@@ -81,7 +89,7 @@ Diese Erklärung wird aus der maschinenlesbaren Datei `.compliance/ai-act-statem
 | EU-Datenbank-Registrierung | [transparency.eu_database_registered] |
 | Registrierungs-ID | [transparency.eu_database_id oder „Ausstehend"] |
 
-**9. Support-Zeitraum:**
+**10. Support-Zeitraum:**
 
 | Feld | Wert |
 |------|------|
@@ -106,7 +114,7 @@ Diese Erklärung wird aus der maschinenlesbaren Datei `.compliance/ai-act-statem
 ---
 
 ::: warning RECHTSVERBINDLICHKEIT
-Diese Konformitätserklärung ist ein rechtsverbindliches Dokument. Durch die Unterzeichnung bestätigt der Provider die Konformität des KI-Systems mit den Anforderungen des AI Act. Falsche Angaben können zu Sanktionen führen (Art. 99: bis zu 15 Mio. EUR oder 3% des weltweiten Jahresumsatzes).
+Diese Konformitätserklärung ist ein rechtsverbindliches Dokument. Durch die Unterzeichnung bestätigt der Provider die Konformität des KI-Systems mit den Anforderungen des AI Act. Nichtkonformität kann zu Sanktionen gemäß Art. 99 führen (bis zu 15 Mio. EUR / 3% des weltweiten Jahresumsatzes). Falsche oder irreführende Angaben an Behörden werden gesondert sanktioniert (bis zu 7,5 Mio. EUR / 1%).
 :::
 
 *Diese Erklärung wird 10 Jahre nach Markteinführung des KI-Systems aufbewahrt (Art. 47 Abs. 2).*

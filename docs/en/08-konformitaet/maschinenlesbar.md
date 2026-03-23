@@ -95,7 +95,7 @@ The AI Act Compliance Statement follows a defined JSON schema:
     "generated_at": "[ISO 8601 Timestamp]",
     "generator": "[Tool or manual]",
     "statement_version": "[Version of the statement]",
-    "regulation": "EU/2024/1689"
+    "regulation": "(EU) 2024/1689"
   }
 }
 ```
@@ -269,7 +269,7 @@ The AI Act Compliance Statement follows a defined JSON schema:
     "generated_at": "2026-07-15T09:00:00Z",
     "generator": "manual",
     "statement_version": "1.0.0",
-    "regulation": "EU/2024/1689"
+    "regulation": "(EU) 2024/1689"
   }
 }
 ```

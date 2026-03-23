@@ -90,7 +90,7 @@ export const zh: LocaleSpecificConfig<ThemeConfig> & { label: string; link: stri
           items: [
             { text: 'GPAI模型 (第51-56条)', link: '/zh/05-gpai/' },
             { text: 'GPAI提供者义务 (第53条)', link: '/zh/05-gpai/pflichten' },
-            { text: '系统性风险 (第55条)', link: '/zh/05-gpai/systemisches-risiko' },
+            { text: '系统性风险 (Art. 51/55)', link: '/zh/05-gpai/systemisches-risiko' },
             { text: 'BAUER GROUP 作为 GPAI 部署者', link: '/zh/05-gpai/deployer-perspektive' },
           ],
         },

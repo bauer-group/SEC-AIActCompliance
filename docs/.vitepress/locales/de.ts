@@ -90,7 +90,7 @@ export const de: LocaleSpecificConfig<ThemeConfig> & { label: string; link: stri
           items: [
             { text: 'GPAI-Modelle (Art. 51–56)', link: '/de/05-gpai/' },
             { text: 'Pflichten GPAI-Anbieter (Art. 53)', link: '/de/05-gpai/pflichten' },
-            { text: 'Systemisches Risiko (Art. 55)', link: '/de/05-gpai/systemisches-risiko' },
+            { text: 'Systemisches Risiko (Art. 51/55)', link: '/de/05-gpai/systemisches-risiko' },
             { text: 'BAUER GROUP als GPAI-Deployer', link: '/de/05-gpai/deployer-perspektive' },
           ],
         },

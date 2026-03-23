@@ -27,6 +27,15 @@ The AI Act follows a **risk-based approach** with four risk tiers:
 3. **Limited risk** (transparency obligations) — Art. 50
 4. **Minimal risk** (unregulated) — no specific obligations
 
+## Extraterritorial Applicability
+
+The AI Act applies to:
+
+- **Providers** who place AI systems on the EU market — regardless of their place of establishment
+- **Deployers** who professionally use AI systems within the EU
+- **Importers and distributors** in the AI value chain
+- **Third-country providers** whose AI system output is used within the EU
+
 ## Documentation Structure
 
-This documentation mirrors the German version at [/de/](/de/01-ueberblick/) with full parity across 10 chapters + appendix. Available in DE/EN/ZH.
+This documentation is structured in 10 chapters + appendix and is available in DE/EN/ZH. It forms the regulatory counterpart to the existing CRA documentation and addresses all obligations arising from the AI Act for BAUER GROUP as provider and deployer of AI-powered systems.

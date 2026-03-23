@@ -1,32 +1,41 @@
-# EU AI Act – Introduction
+# EU AI Act – 引言
 
-## Regulation (EU) 2024/1689
+## 法规 (EU) 2024/1689
 
-The **EU Artificial Intelligence Act** (AI Act) is the world's first comprehensive regulation for Artificial Intelligence. The regulation entered into force on **1 August 2024** and will become fully applicable by **2 August 2027** in phases.
+**EU人工智能法案**（AI Act）是全球首部全面的人工智能监管法规。该法规于**2024年8月1日**生效，将分阶段至**2027年8月2日**全面适用。
 
-::: warning BAUER GROUP Guiding Principle
-This documentation serves **external regulatory completeness**. Internally: every AI system undergoes a Go/No-Go assessment before EU market entry. If compliance effort is disproportionate to expected revenue, the product will **not be offered in the EU single market**. The AI Act addresses AI systems — not software in general.
+::: warning BAUER GROUP 指导原则
+本文档旨在实现**对外监管完整性**。内部原则：每个AI系统在进入欧盟市场前都须经过Go/No-Go评估。如果合规工作量与预期收入不成比例，该产品将**不在欧盟单一市场**提供。AI Act针对的是AI系统——而非一般软件。
 :::
 
-## Distinction from the Cyber Resilience Act (CRA)
+## 与网络弹性法案 (CRA) 的区别
 
-| Criterion | CRA (Reg. 2024/2847) | AI Act (Reg. 2024/1689) |
+| 标准 | CRA (法规 2024/2847) | AI Act (法规 2024/1689) |
 |---|---|---|
-| **Scope** | Products with digital elements | AI systems |
-| **Focus** | Cybersecurity | Safety, fundamental rights, transparency |
-| **Approach** | Product safety (CE) | Risk-based (4 tiers) |
-| **Reporting** | ENISA (24h/72h/14d) | Market surveillance + EU database |
-| **Existing docs** | [cra.docs.bauer-group.com](https://cra.docs.bauer-group.com) | This documentation |
+| **范围** | 具有数字元素的产品 | AI系统 |
+| **重点** | 网络安全 | 安全、基本权利、透明度 |
+| **监管方法** | 产品安全 (CE) | 基于风险（4个等级） |
+| **报告义务** | ENISA (24h/72h/14d) | 市场监管 + 欧盟数据库 |
+| **现有文档** | [cra.docs.bauer-group.com](https://cra.docs.bauer-group.com) | 本文档 |
 
-## Core Principles
+## 核心原则
 
-The AI Act follows a **risk-based approach** with four risk tiers:
+AI Act采用**基于风险的方法**，分为四个风险等级：
 
-1. **Unacceptable risk** (prohibited) — Art. 5
-2. **High risk** (strictly regulated) — Art. 6–49, Annex I + III
-3. **Limited risk** (transparency obligations) — Art. 50
-4. **Minimal risk** (unregulated) — no specific obligations
+1. **不可接受的风险**（禁止） — Art. 5
+2. **高风险**（严格监管） — Art. 6–49, Annex I + III
+3. **有限风险**（透明度义务） — Art. 50
+4. **最低风险**（无监管） — 无特定义务
 
-## Documentation Structure
+## 域外适用性
 
-This documentation mirrors the German version at [/de/](/de/01-ueberblick/) with full parity across 10 chapters + appendix. Available in DE/EN/ZH.
+AI Act适用于：
+
+- **提供者 (Provider)** — 在欧盟市场投放AI系统者，无论其设立地点
+- **部署者 (Deployer)** — 在欧盟境内专业使用AI系统者
+- **进口商和分销商** — AI价值链中的参与者
+- **第三国提供者** — 其AI系统输出在欧盟境内使用者
+
+## 文档结构
+
+本文档分为10个章节 + 附录，提供DE/EN/ZH三种语言版本。它构成现有CRA文档的监管对应部分，涵盖AI Act对BAUER GROUP作为AI系统提供者和部署者所产生的所有义务。

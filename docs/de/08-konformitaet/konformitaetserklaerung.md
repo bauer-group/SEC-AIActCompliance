@@ -2,9 +2,9 @@
 
 ## Anforderung
 
-Provider von Hochrisiko-KI-Systemen müssen eine **EU-Konformitätserklärung** ausstellen, die bestätigt, dass das System die Anforderungen des AI Act erfüllt.
+Provider von Hochrisiko-KI-Systemen müssen eine **EU-Konformitätserklärung** gemäß **Annex V** ausstellen, die bestätigt, dass das System die Anforderungen des AI Act erfüllt.
 
-## Inhalt
+## Inhalt (Annex V)
 
 Die Erklärung muss mindestens enthalten:
 

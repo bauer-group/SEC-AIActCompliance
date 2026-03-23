@@ -19,8 +19,11 @@ This declaration is generated from the machine-readable file `.compliance/ai-act
 | Field | Value |
 |-------|-------|
 | Designation | [ai_system.name] |
+| Trade name / brand | [ai_system.trade_name or "Not applicable"] |
 | Type | [ai_system.type] |
 | Version | [ai_system.version] |
+| Model / variant | [ai_system.model or "Not applicable"] |
+| Batch / serial number | [ai_system.serial_number or "Not applicable"] |
 | System ID | [ai_system.identifier] |
 | Intended purpose | [ai_system.intended_purpose] |
 
@@ -64,15 +67,20 @@ This declaration is generated from the machine-readable file `.compliance/ai-act
 |--------------------------|-------------|
 | [harmonised_standards[].identifier] | [harmonised_standards[].description] |
 
-**7. Conformity assessment procedure:**
+**7. Member States in which the AI system has been placed on the market or put into service:**
+
+[List of Member States or "EU-wide"]
+
+**8. Conformity assessment procedure:**
 
 | Field | Value |
 |-------|-------|
 | Procedure | [conformity_assessment.procedure] |
-| Notified body | [conformity_assessment.notified_body \|\| "Not applicable (Annex VI)"] |
+| Notified body | [conformity_assessment.notified_body or "Not applicable (Annex VI)"] |
+| Certificate number | [conformity_assessment.certificate_id or "Not applicable"] |
 | Date of assessment | [conformity_assessment.assessment_date] |
 
-**8. Transparency and registration:**
+**9. Transparency and registration:**
 
 | Field | Value |
 |-------|-------|
@@ -81,7 +89,7 @@ This declaration is generated from the machine-readable file `.compliance/ai-act
 | EU database registration | [transparency.eu_database_registered] |
 | Registration ID | [transparency.eu_database_id \|\| "Pending"] |
 
-**9. Support period:**
+**10. Support period:**
 
 | Field | Value |
 |-------|-------|
@@ -106,7 +114,7 @@ This declaration is generated from the machine-readable file `.compliance/ai-act
 ---
 
 ::: warning LEGAL BINDING EFFECT
-This declaration of conformity is a legally binding document. By signing, the provider confirms the conformity of the AI system with the requirements of the AI Act. False statements may result in penalties (Art. 99: up to EUR 15 million or 3% of global annual turnover).
+This declaration of conformity is a legally binding document. By signing, the provider confirms the conformity of the AI system with the requirements of the AI Act. Non-compliance may result in penalties under Art. 99 (up to EUR 15 million / 3% of global annual turnover). False or misleading information to authorities is separately sanctioned (up to EUR 7.5 million / 1%).
 :::
 
 *This declaration shall be retained for 10 years after the AI system is placed on the market (Art. 47(2)).*

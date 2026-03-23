@@ -19,8 +19,11 @@
 | 字段 | 值 |
 |------|------|
 | 名称 | [ai_system.name] |
+| 商品名称/品牌 | [ai_system.trade_name 或 "不适用"] |
 | 类型 | [ai_system.type] |
 | 版本 | [ai_system.version] |
+| 型号/变体 | [ai_system.model 或 "不适用"] |
+| 批次/序列号 | [ai_system.serial_number 或 "不适用"] |
 | 系统 ID | [ai_system.identifier] |
 | 预期用途 | [ai_system.intended_purpose] |
 
@@ -64,15 +67,20 @@
 |-----------|------|
 | [harmonised_standards[].identifier] | [harmonised_standards[].description] |
 
-**7. 合规评估程序：**
+**7. AI系统已投放市场或投入使用的成员国：**
+
+[成员国列表或"全欧盟"]
+
+**8. 合规评估程序：**
 
 | 字段 | 值 |
 |------|------|
 | 程序 | [conformity_assessment.procedure] |
-| 公告机构 | [conformity_assessment.notified_body \|\| "不适用（Annex VI）"] |
+| 公告机构 | [conformity_assessment.notified_body 或 "不适用（Annex VI）"] |
+| 证书编号 | [conformity_assessment.certificate_id 或 "不适用"] |
 | 评估日期 | [conformity_assessment.assessment_date] |
 
-**8. 透明度和注册：**
+**9. 透明度和注册：**
 
 | 字段 | 值 |
 |------|------|
@@ -81,7 +89,7 @@
 | EU 数据库注册 | [transparency.eu_database_registered] |
 | 注册 ID | [transparency.eu_database_id \|\| "待定"] |
 
-**9. 支持期限：**
+**10. 支持期限：**
 
 | 字段 | 值 |
 |------|------|
@@ -106,7 +114,7 @@
 ---
 
 ::: warning 法律约束力
-本合规声明为具有法律约束力的文件。提供者通过签署确认 AI 系统符合 AI Act 的要求。虚假陈述可能导致处罚（Art. 99：最高 1500 万欧元或全球年营业额的 3%）。
+本合规声明为具有法律约束力的文件。提供者通过签署确认 AI 系统符合 AI Act 的要求。不合规可能导致Art. 99项下的处罚（最高1500万EUR / 全球年营业额的3%）。向当局提供虚假或误导性信息将单独处罚（最高750万EUR / 1%）。
 :::
 
 *本声明应在 AI 系统投放市场后保存 10 年（Art. 47(2)）。*

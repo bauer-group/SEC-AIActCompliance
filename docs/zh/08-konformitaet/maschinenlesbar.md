@@ -95,7 +95,7 @@ AI Act 合规声明遵循已定义的 JSON 模式：
     "generated_at": "[ISO 8601 时间戳]",
     "generator": "[工具或手动]",
     "statement_version": "[声明版本]",
-    "regulation": "EU/2024/1689"
+    "regulation": "(EU) 2024/1689"
   }
 }
 ```
@@ -269,7 +269,7 @@ AI Act 合规声明遵循已定义的 JSON 模式：
     "generated_at": "2026-07-15T09:00:00Z",
     "generator": "manual",
     "statement_version": "1.0.0",
-    "regulation": "EU/2024/1689"
+    "regulation": "(EU) 2024/1689"
   }
 }
 ```
