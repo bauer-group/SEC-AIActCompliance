@@ -25,4 +25,4 @@ The following standards are suitable for machine-readable labelling of synthetic
 - **IPTC metadata** for images
 - **Custom HTTP headers** or meta tags for web content
 
-The specific technical implementation will be defined as needed when BAUER products generate synthetic content for external publication.
+The specific technical implementation will be defined as needed when BAUER GROUP products generate synthetic content for external publication.

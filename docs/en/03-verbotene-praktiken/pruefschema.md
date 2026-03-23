@@ -1,4 +1,4 @@
-# Screening Schema for BAUER Products
+# Screening Schema for BAUER GROUP Products
 
 ## Procedure
 

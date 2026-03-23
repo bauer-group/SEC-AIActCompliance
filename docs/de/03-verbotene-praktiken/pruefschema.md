@@ -1,4 +1,4 @@
-# Prüfschema für BAUER Produkte
+# Prüfschema für BAUER GROUP Produkte
 
 ## Vorgehen
 

@@ -27,5 +27,5 @@ Die automatische Protokollierung muss umfassen:
 | Zugriff | Logs auf Anfrage für Behörden bereitstellbar |
 
 ::: tip Minimaler Aufwand
-Wenn das System bereits über Structured Logging verfügt (was bei BAUER-Produkten Standard ist), beschränkt sich der Mehraufwand auf die Sicherstellung, dass die AI-Act-spezifischen Felder enthalten sind.
+Wenn das System bereits über Structured Logging verfügt (was bei BAUER GROUP Produkten Standard ist), beschränkt sich der Mehraufwand auf die Sicherstellung, dass die AI-Act-spezifischen Felder enthalten sind.
 :::

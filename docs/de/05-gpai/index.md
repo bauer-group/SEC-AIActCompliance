@@ -23,7 +23,7 @@ Provider von GPAI-Modellen mit systemischem Risiko haben **zusätzliche Pflichte
 
 ## BAUER GROUP Perspektive
 
-Die BAUER GROUP ist **kein GPAI-Modell-Provider**. Wir trainieren keine eigenen Foundation Models. Unsere Rolle ist:
+Die BAUER GROUP ist **derzeit kein GPAI-Modell-Provider**. Eine zukünftige Eigenentwicklung von Modellen ist nicht ausgeschlossen. Unsere aktuelle Rolle ist:
 
 - **GPAI-Deployer** — wir nutzen GPAI-Modelle (Claude, GPT, etc.) als Tools
 - **Potenziell System-Provider** — wenn wir GPAI-Modelle in Kundenprodukte integrieren

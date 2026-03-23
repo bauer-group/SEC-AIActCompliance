@@ -23,7 +23,7 @@ features:
     link: /zh/02-risikoklassifizierung/
   - icon: 🚫
     title: 禁止做法
-    details: 第5条完整禁止目录及BAUER产品审查方案
+    details: 第5条完整禁止目录及BAUER GROUP产品审查方案
     link: /zh/03-verbotene-praktiken/
   - icon: 🔍
     title: 高风险AI

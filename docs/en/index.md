@@ -23,7 +23,7 @@ features:
     link: /en/02-risikoklassifizierung/
   - icon: 🚫
     title: Prohibited Practices
-    details: Complete prohibition catalogue per Art. 5 with screening schema for BAUER products
+    details: Complete prohibition catalogue per Art. 5 with screening schema for BAUER GROUP products
     link: /en/03-verbotene-praktiken/
   - icon: 🔍
     title: High-Risk AI

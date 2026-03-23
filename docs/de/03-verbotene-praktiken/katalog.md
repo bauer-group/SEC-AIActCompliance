@@ -6,7 +6,7 @@
 
 **Verbot:** KI-Systeme, die durch unterschwellige Techniken (nicht bewusst wahrnehmbar) oder absichtlich manipulative Techniken das Verhalten einer Person wesentlich beeinflussen, sodass diese Person oder eine andere Person Schaden erleidet.
 
-**BAUER Prüfung:** Keine BAUER-Produkte nutzen unterschwellige Beeinflussung. KI-Empfehlungssysteme (falls vorhanden) sind transparent und verfolgen keine manipulativen Ziele.
+**BAUER GROUP Prüfung:** Keine BAUER GROUP Produkte nutzen unterschwellige Beeinflussung. KI-Empfehlungssysteme (falls vorhanden) sind transparent und verfolgen keine manipulativen Ziele.
 
 **Status:** ✅ Nicht betroffen
 
@@ -14,7 +14,7 @@
 
 **Verbot:** KI-Systeme, die Schwächen aufgrund von Alter, Behinderung oder besonderer sozialer/wirtschaftlicher Situation gezielt ausnutzen.
 
-**BAUER Prüfung:** B2B-Fokus. Keine Produkte, die vulnerable Gruppen adressieren.
+**BAUER GROUP Prüfung:** B2B-Fokus. Keine Produkte, die vulnerable Gruppen adressieren.
 
 **Status:** ✅ Nicht betroffen
 
@@ -22,7 +22,7 @@
 
 **Verbot:** Bewertung oder Klassifizierung natürlicher Personen aufgrund ihres Sozialverhaltens über einen Zeitraum, die zu ungerechtfertigter oder unverhältnismäßiger Behandlung führt.
 
-**BAUER Prüfung:** Keine Scoring-Systeme für natürliche Personen.
+**BAUER GROUP Prüfung:** Keine Scoring-Systeme für natürliche Personen.
 
 **Status:** ✅ Nicht betroffen
 

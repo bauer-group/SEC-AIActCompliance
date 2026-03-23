@@ -65,7 +65,7 @@ export const en: LocaleSpecificConfig<ThemeConfig> & { label: string; link: stri
           items: [
             { text: 'Overview Art. 5', link: '/en/03-verbotene-praktiken/' },
             { text: 'Prohibition Catalogue', link: '/en/03-verbotene-praktiken/katalog' },
-            { text: 'Screening for BAUER Products', link: '/en/03-verbotene-praktiken/pruefschema' },
+            { text: 'Screening for BAUER GROUP Products', link: '/en/03-verbotene-praktiken/pruefschema' },
           ],
         },
         {

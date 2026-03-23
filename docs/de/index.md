@@ -23,7 +23,7 @@ features:
     link: /de/02-risikoklassifizierung/
   - icon: 🚫
     title: Verbotene Praktiken
-    details: Vollständiger Verbotskatalog nach Art. 5 mit Prüfschema für BAUER-Produkte
+    details: Vollständiger Verbotskatalog nach Art. 5 mit Prüfschema für BAUER GROUP Produkte
     link: /de/03-verbotene-praktiken/
   - icon: 🔍
     title: Hochrisiko-KI

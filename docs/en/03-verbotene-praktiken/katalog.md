@@ -6,7 +6,7 @@
 
 **Prohibition:** AI systems that materially influence the behaviour of a person through subliminal techniques (not consciously perceivable) or deliberately manipulative techniques, such that that person or another person suffers harm.
 
-**BAUER Review:** No BAUER products employ subliminal influence. AI recommendation systems (if any) are transparent and do not pursue manipulative objectives.
+**BAUER GROUP Review:** No BAUER GROUP products employ subliminal influence. AI recommendation systems (if any) are transparent and do not pursue manipulative objectives.
 
 **Status:** ✅ Not affected
 
@@ -14,7 +14,7 @@
 
 **Prohibition:** AI systems that deliberately exploit vulnerabilities arising from age, disability, or a particular social/economic situation.
 
-**BAUER Review:** B2B focus. No products targeting vulnerable groups.
+**BAUER GROUP Review:** B2B focus. No products targeting vulnerable groups.
 
 **Status:** ✅ Not affected
 
@@ -22,7 +22,7 @@
 
 **Prohibition:** Evaluation or classification of natural persons on the basis of their social behaviour over a period of time, leading to unjustified or disproportionate treatment.
 
-**BAUER Review:** No scoring systems for natural persons.
+**BAUER GROUP Review:** No scoring systems for natural persons.
 
 **Status:** ✅ Not affected
 

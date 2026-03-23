@@ -25,4 +25,4 @@ Für maschinenlesbare Kennzeichnung synthetischer Inhalte kommen in Betracht:
 - **IPTC-Metadaten** für Bilder
 - **Custom HTTP-Header** oder Meta-Tags für Web-Inhalte
 
-Die konkrete technische Umsetzung wird bei Bedarf spezifiziert, wenn BAUER-Produkte synthetische Inhalte für externe Veröffentlichung erzeugen.
+Die konkrete technische Umsetzung wird bei Bedarf spezifiziert, wenn BAUER GROUP Produkte synthetische Inhalte für externe Veröffentlichung erzeugen.

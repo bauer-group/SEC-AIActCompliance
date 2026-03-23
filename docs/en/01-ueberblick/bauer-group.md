@@ -6,7 +6,7 @@ BAUER GROUP (BGI) is an IT and engineering service provider focusing on software
 
 - **Primarily a Deployer** — we use third-party AI systems (LLMs, ML services) as tools within our processes
 - **Occasionally a Provider** — when we integrate AI components into customer products and distribute them under our own name
-- **Not a GPAI model provider** — we do not train our own foundation models
+- **Currently not a GPAI model provider** — however, in-house model development in the future is not ruled out
 
 ## Strategic Principles
 

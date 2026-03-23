@@ -65,7 +65,7 @@ export const zh: LocaleSpecificConfig<ThemeConfig> & { label: string; link: stri
           items: [
             { text: '第5条概述', link: '/zh/03-verbotene-praktiken/' },
             { text: '禁止目录', link: '/zh/03-verbotene-praktiken/katalog' },
-            { text: 'BAUER 产品审查方案', link: '/zh/03-verbotene-praktiken/pruefschema' },
+            { text: 'BAUER GROUP 产品审查方案', link: '/zh/03-verbotene-praktiken/pruefschema' },
           ],
         },
         {

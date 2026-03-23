@@ -1,4 +1,4 @@
-# BAUER产品审查方案
+# BAUER GROUP产品审查方案
 
 ## 流程
 

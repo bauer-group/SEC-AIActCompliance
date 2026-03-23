@@ -27,5 +27,5 @@ The automatic logging must cover:
 | Access | Logs available to authorities upon request |
 
 ::: tip Minimal Effort
-Where the system already has structured logging in place (which is standard for BAUER products), the additional effort is limited to ensuring that the AI Act-specific fields are included.
+Where the system already has structured logging in place (which is standard for BAUER GROUP products), the additional effort is limited to ensuring that the AI Act-specific fields are included.
 :::

@@ -6,7 +6,7 @@ Die BAUER GROUP (BGI) ist ein IT- und Engineering-Dienstleister mit Fokus auf So
 
 - **Primär Deployer** — wir nutzen KI-Systeme Dritter (LLMs, ML-Dienste) als Werkzeuge in unseren Prozessen
 - **Gelegentlich Provider** — wenn wir KI-Komponenten in Kundenprodukte integrieren und unter eigenem Namen vertreiben
-- **Kein GPAI-Modell-Anbieter** — wir trainieren keine eigenen Foundation Models
+- **Derzeit kein GPAI-Modell-Anbieter** — eine zukünftige Eigenentwicklung von Modellen ist jedoch nicht ausgeschlossen
 
 ## Strategische Grundsätze
 
