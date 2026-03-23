@@ -8,47 +8,47 @@ hero:
   actions:
     - theme: brand
       text: Überblick
-      link: /de/01-ueberblick/
+      link: /de/overview/
     - theme: alt
       text: Compliance-Matrix
-      link: /de/10-compliance-matrix/
+      link: /de/compliance-matrix/
     - theme: alt
       text: Templates
-      link: /de/templates/ki-inventar
+      link: /de/templates/ai-inventory
 
 features:
   - icon: ⚖️
     title: Risikoklassifizierung
     details: Systematische Einordnung aller KI-Systeme in die vier Risikostufen des AI Act (Verboten, Hoch, Begrenzt, Minimal)
-    link: /de/02-risikoklassifizierung/
+    link: /de/risk-classification/
   - icon: 🚫
     title: Verbotene Praktiken
     details: Vollständiger Verbotskatalog nach Art. 5 mit Prüfschema für BAUER GROUP Produkte
-    link: /de/03-verbotene-praktiken/
+    link: /de/prohibited-practices/
   - icon: 🔍
     title: Hochrisiko-KI
     details: Anforderungen Art. 8–15 – Risikomanagement, Data Governance, Transparenz, menschliche Aufsicht
-    link: /de/04-hochrisiko-ki/
+    link: /de/high-risk-ai/
   - icon: 🤖
     title: General-Purpose AI (GPAI)
     details: GPAI-Pflichten (Art. 51–56), systemisches Risiko und BAUER GROUP als GPAI-Deployer
-    link: /de/05-gpai/
+    link: /de/gpai/
   - icon: 👁️
     title: Transparenzpflichten
     details: KI-Interaktion offenlegen, Deepfake-Kennzeichnung und Labelling nach Art. 50
-    link: /de/06-transparenz/
+    link: /de/transparency/
   - icon: 🎓
     title: Governance & AI Literacy
     details: AI Literacy (Art. 4), KI-Inventar, Governance Framework und Rollenverteilung
-    link: /de/07-governance/
+    link: /de/governance/
   - icon: ✅
     title: Konformitätsbewertung
     details: Selbstbewertung (Annex VI), CE-Kennzeichnung, EU-Konformitätserklärung und Datenbankregistrierung
-    link: /de/08-konformitaet/
+    link: /de/conformity/
   - icon: 📊
     title: Compliance-Matrix
     details: Vollständige Zuordnung aller AI-Act-Artikel zu Dokumentation, Aufwandsbewertung und Go/No-Go
-    link: /de/10-compliance-matrix/
+    link: /de/compliance-matrix/
 ---
 
 <style>

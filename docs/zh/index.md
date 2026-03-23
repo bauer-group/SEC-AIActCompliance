@@ -8,47 +8,47 @@ hero:
   actions:
     - theme: brand
       text: 概述
-      link: /zh/01-ueberblick/
+      link: /zh/overview/
     - theme: alt
       text: 合规矩阵
-      link: /zh/10-compliance-matrix/
+      link: /zh/compliance-matrix/
     - theme: alt
       text: 模板
-      link: /zh/templates/ki-inventar
+      link: /zh/templates/ai-inventory
 
 features:
   - icon: ⚖️
     title: 风险分类
     details: 将所有AI系统系统性地归入AI Act的四个风险等级（禁止、高风险、有限风险、最低风险）
-    link: /zh/02-risikoklassifizierung/
+    link: /zh/risk-classification/
   - icon: 🚫
     title: 禁止做法
     details: 第5条完整禁止目录及BAUER GROUP产品审查方案
-    link: /zh/03-verbotene-praktiken/
+    link: /zh/prohibited-practices/
   - icon: 🔍
     title: 高风险AI
     details: 第8-15条要求 – 风险管理、数据治理、透明度、人类监督
-    link: /zh/04-hochrisiko-ki/
+    link: /zh/high-risk-ai/
   - icon: 🤖
     title: 通用人工智能 (GPAI)
     details: GPAI义务（第51-56条）、系统性风险及BAUER GROUP作为GPAI部署者
-    link: /zh/05-gpai/
+    link: /zh/gpai/
   - icon: 👁️
     title: 透明度义务
     details: AI交互披露、深度伪造标注及第50条透明度要求
-    link: /zh/06-transparenz/
+    link: /zh/transparency/
   - icon: 🎓
     title: 治理与AI素养
     details: AI素养（第4条）、AI清单、治理框架及角色分配
-    link: /zh/07-governance/
+    link: /zh/governance/
   - icon: ✅
     title: 合格评定
     details: 自我评估（附录VI）、CE标识、EU合格声明及数据库注册
-    link: /zh/08-konformitaet/
+    link: /zh/conformity/
   - icon: 📊
     title: 合规矩阵
     details: 所有AI Act条款与文档、工作量评估和Go/No-Go的完整映射
-    link: /zh/10-compliance-matrix/
+    link: /zh/compliance-matrix/
 ---
 
 <style>
