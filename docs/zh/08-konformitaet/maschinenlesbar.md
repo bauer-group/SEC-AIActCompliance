@@ -26,7 +26,7 @@ AI Act 合规声明遵循已定义的 JSON 模式：
   "provider": {
     "name": "BAUER GROUP",
     "address": "[完整通信地址]",
-    "contact_email": "ai-compliance@bauer-group.com",
+    "contact_email": "compliance@bauer-group.com",
     "website": "[URL]",
     "authorised_representative": null
   },
@@ -196,8 +196,8 @@ AI Act 合规声明遵循已定义的 JSON 模式：
   "provider": {
     "name": "BAUER GROUP",
     "address": "Musterstraße 1, 12345 Musterstadt, Deutschland",
-    "contact_email": "ai-compliance@bauer-group.com",
-    "website": "https://www.bauer-group.com",
+    "contact_email": "compliance@bauer-group.com",
+    "website": "https://bauer-group.com",
     "authorised_representative": null
   },
 

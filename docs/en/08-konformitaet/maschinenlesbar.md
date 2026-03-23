@@ -26,7 +26,7 @@ The AI Act Compliance Statement follows a defined JSON schema:
   "provider": {
     "name": "BAUER GROUP",
     "address": "[Full postal address]",
-    "contact_email": "ai-compliance@bauer-group.com",
+    "contact_email": "compliance@bauer-group.com",
     "website": "[URL]",
     "authorised_representative": null
   },
@@ -196,8 +196,8 @@ The AI Act Compliance Statement follows a defined JSON schema:
   "provider": {
     "name": "BAUER GROUP",
     "address": "Musterstraße 1, 12345 Musterstadt, Deutschland",
-    "contact_email": "ai-compliance@bauer-group.com",
-    "website": "https://www.bauer-group.com",
+    "contact_email": "compliance@bauer-group.com",
+    "website": "https://bauer-group.com",
     "authorised_representative": null
   },
 
