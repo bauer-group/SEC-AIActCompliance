@@ -1,58 +1,112 @@
 # Template: EU-Konformitätserklärung (Art. 47)
 
+::: tip SINGLE SOURCE OF TRUTH
+Diese Erklärung wird aus der maschinenlesbaren Datei `.compliance/ai-act-statement.json` generiert. Änderungen immer in der JSON-Datei vornehmen — die menschenlesbare Version wird daraus abgeleitet. Siehe: [Maschinenlesbares Format](/de/08-konformitaet/maschinenlesbar)
+:::
+
 ---
 
 ## EU-KONFORMITÄTSERKLÄRUNG
 
+### Nr. [DoC-YYYY-NNN]
+
 ### Verordnung (EU) 2024/1689 — Artificial Intelligence Act
 
-**Provider:**
-BAUER GROUP
-[Adresse]
-[Kontakt]
+---
 
-**KI-System:**
+**1. KI-System:**
 
 | Feld | Wert |
-|---|---|
-| Bezeichnung | [Name des KI-Systems] |
-| Typ/Modell | [Typenbezeichnung] |
-| Version | [Versionsnummer] |
-| System-ID | AI-BGI-XXXX |
+|------|------|
+| Bezeichnung | [ai_system.name] |
+| Typ | [ai_system.type] |
+| Version | [ai_system.version] |
+| System-ID | [ai_system.identifier] |
+| Bestimmungsgemäße Verwendung | [ai_system.intended_purpose] |
 
-**Erklärung:**
+**2. Name und Anschrift des Providers und gegebenenfalls seines Bevollmächtigten:**
 
-Wir erklären in alleiniger Verantwortung, dass das oben beschriebene KI-System den folgenden Anforderungen der Verordnung (EU) 2024/1689 entspricht:
+| Feld | Wert |
+|------|------|
+| Unternehmen | [provider.name] |
+| Anschrift | [provider.address] |
+| E-Mail | [provider.contact_email] |
+| Webseite | [provider.website] |
+| **Bevollmächtigter** (falls zutreffend) | [provider.authorised_representative oder „Entfällt"] |
 
-- Art. 9 — Risikomanagementsystem
-- Art. 10 — Daten und Data Governance
-- Art. 11 — Technische Dokumentation
-- Art. 12 — Protokollierung
-- Art. 13 — Transparenz und Information für Deployer
-- Art. 14 — Menschliche Aufsicht
-- Art. 15 — Genauigkeit, Robustheit und Cybersicherheit
+**3. Diese Konformitätserklärung wird in alleiniger Verantwortung des Providers ausgestellt.**
 
-**Angewandte harmonisierte Normen / technische Spezifikationen:**
+**4. Risikoklassifizierung:**
 
-[Referenz auf angewandte Normen, sobald verfügbar]
+| Feld | Wert |
+|------|------|
+| Risikostufe | [risk_classification.risk_level] |
+| Annex-III-Kategorie | [risk_classification.annex_iii_category oder „Entfällt"] |
+| Annex-I-Produkt | [risk_classification.annex_i_product oder „Entfällt"] |
+| Begründung | [risk_classification.classification_rationale] |
 
-**Konformitätsbewertungsverfahren:**
+**5. Das oben beschriebene KI-System erfüllt die Anforderungen der Verordnung (EU) 2024/1689:**
 
-- [x] Interne Kontrolle (Annex VI)
-- [ ] QMS + Technische Dokumentation durch Notified Body (Annex VII)
+| Anforderung | Artikel | Erfüllt |
+|-------------|---------|:-------:|
+| Risikomanagementsystem | Art. 9 | [compliance.art_9_risk_management] |
+| Daten und Data Governance | Art. 10 | [compliance.art_10_data_governance] |
+| Technische Dokumentation | Art. 11 | [compliance.art_11_technical_documentation] |
+| Protokollierung | Art. 12 | [compliance.art_12_record_keeping] |
+| Transparenz und Information für Deployer | Art. 13 | [compliance.art_13_transparency] |
+| Menschliche Aufsicht | Art. 14 | [compliance.art_14_human_oversight] |
+| Genauigkeit, Robustheit und Cybersicherheit | Art. 15 | [compliance.art_15_accuracy_robustness] |
+| Qualitätsmanagementsystem | Art. 17 | [compliance.art_17_qms] |
 
-**Ggf. Notified Body:**
+**6. Verweis auf angewandte harmonisierte Normen / technische Spezifikationen:**
 
-[Name, Kennnummer — nur bei Annex VII]
+| Norm / Spezifikation | Beschreibung |
+|----------------------|--------------|
+| [harmonised_standards.identifier] | [harmonised_standards.description] |
+
+**7. Konformitätsbewertungsverfahren:**
+
+| Feld | Wert |
+|------|------|
+| Verfahren | [conformity_assessment.procedure] |
+| Notified Body | [conformity_assessment.notified_body oder „Entfällt (Annex VI)"] |
+| Datum der Bewertung | [conformity_assessment.assessment_date] |
+
+**8. Transparenz und Registrierung:**
+
+| Feld | Wert |
+|------|------|
+| KI-Interaktion offengelegt | [transparency.ai_interaction_disclosed] |
+| Deployer-Gebrauchsanweisung | [transparency.deployer_instructions_provided] |
+| EU-Datenbank-Registrierung | [transparency.eu_database_registered] |
+| Registrierungs-ID | [transparency.eu_database_id oder „Ausstehend"] |
+
+**9. Support-Zeitraum:**
+
+| Feld | Wert |
+|------|------|
+| Support-Beginn | [support_period.start_date] |
+| Support-Ende | [support_period.end_date] |
+| Post-Market-Monitoring | [support_period.post_market_monitoring] |
 
 ---
 
-**Ort, Datum:** ________________
+**Unterzeichnet für und im Namen von:**
 
-**Name, Funktion:** ________________
+[provider.name]
 
-**Unterschrift:** ________________
+| Feld | Wert |
+|------|------|
+| Ort | [Ort] |
+| Datum | [conformity_assessment.declaration_date] |
+| Name | [Vor- und Nachname] |
+| Funktion | [Funktion/Titel] |
+| Unterschrift | _________________________ |
 
 ---
 
-*Diese Erklärung wird 10 Jahre nach Markteinführung des KI-Systems aufbewahrt.*
+::: warning RECHTSVERBINDLICHKEIT
+Diese Konformitätserklärung ist ein rechtsverbindliches Dokument. Durch die Unterzeichnung bestätigt der Provider die Konformität des KI-Systems mit den Anforderungen des AI Act. Falsche Angaben können zu Sanktionen führen (Art. 99: bis zu 15 Mio. EUR oder 3% des weltweiten Jahresumsatzes).
+:::
+
+*Diese Erklärung wird 10 Jahre nach Markteinführung des KI-Systems aufbewahrt (Art. 47 Abs. 2).*

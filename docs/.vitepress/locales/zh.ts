@@ -123,6 +123,7 @@ export const zh: LocaleSpecificConfig<ThemeConfig> & { label: string; link: stri
             { text: 'QMS + 技术文档 (附录VII)', link: '/zh/08-konformitaet/annex-vii' },
             { text: 'CE标识 (第48条)', link: '/zh/08-konformitaet/ce-kennzeichnung' },
             { text: 'EU合格声明 (第47条)', link: '/zh/08-konformitaet/konformitaetserklaerung' },
+            { text: '机器可读格式 (JSON)', link: '/zh/08-konformitaet/maschinenlesbar' },
             { text: 'EU数据库注册 (第49条)', link: '/zh/08-konformitaet/registrierung' },
           ],
         },

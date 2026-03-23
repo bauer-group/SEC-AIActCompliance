@@ -15,6 +15,16 @@ Die Erklärung muss mindestens enthalten:
 - Ggf. Name und Kennnummer der benannten Stelle (bei Annex VII)
 - Datum und Unterschrift
 
+## Single Source of Truth
+
+Die EU-Konformitätserklärung wird aus der maschinenlesbaren Datei `.compliance/ai-act-statement.json` generiert. Damit ist sichergestellt, dass:
+
+- **Eine Quelle** — JSON ist der einzige Ort, an dem Compliance-Daten gepflegt werden
+- **Konsistenz** — Menschenlesbare DoC, CE-Kennzeichnung und EU-Datenbank-Registrierung nutzen dieselben Daten
+- **Automatisierung** — Validierung und Generierung in der CI/CD-Pipeline
+
+Siehe: [Maschinenlesbares Format](/de/08-konformitaet/maschinenlesbar)
+
 ## Aufbewahrung
 
 Die EU-Konformitätserklärung muss **10 Jahre** nach Markteinführung aufbewahrt und auf Anfrage den zuständigen Behörden vorgelegt werden.

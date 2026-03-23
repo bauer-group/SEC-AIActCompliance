@@ -123,6 +123,7 @@ export const de: LocaleSpecificConfig<ThemeConfig> & { label: string; link: stri
             { text: 'QMS + Techn. Doku (Annex VII)', link: '/de/08-konformitaet/annex-vii' },
             { text: 'CE-Kennzeichnung (Art. 48)', link: '/de/08-konformitaet/ce-kennzeichnung' },
             { text: 'EU-Konformitätserklärung (Art. 47)', link: '/de/08-konformitaet/konformitaetserklaerung' },
+            { text: 'Maschinenlesbares Format (JSON)', link: '/de/08-konformitaet/maschinenlesbar' },
             { text: 'EU-Datenbank-Registrierung (Art. 49)', link: '/de/08-konformitaet/registrierung' },
           ],
         },
