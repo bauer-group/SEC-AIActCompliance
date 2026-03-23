@@ -1,5 +1,37 @@
 # Roles & Responsibilities
 
-::: info Translation
-Full content available in [German version](/de/07-governance/rollen). English translation follows the German source.
-:::
+## AI Act Roles within the BAUER GROUP
+
+### Executive Management
+
+- Final Go/No-Go decision for AI products in the EU market
+- Strategic positioning (avoidance vs. compliance)
+- Resource allocation for compliance measures
+
+### Head of Development
+
+- Technical implementation of Art. 8–15 requirements (for high-risk)
+- Integration of AI Act checks into CI/CD pipeline
+- Model versioning and documentation
+- Cybersecurity (coordinated with CRA responsible person)
+
+### Project Management
+
+- Maintain AI system inventory
+- Conduct risk classification per product
+- Create and update technical documentation
+- Coordinate conformity assessment
+
+### All Employees with AI Contact
+
+- Complete AI Literacy training
+- Use AI systems in accordance with their intended purpose
+- Report anomalies and incidents
+
+## Mapping to CRA Roles
+
+| CRA Role | AI Act Extension |
+|---|---|
+| Security Officer | + AI-specific threat analysis (Adversarial ML) |
+| SBOM Responsible | No extension (AI Act has no SBOM equivalent) |
+| Incident Response | + AI incident reporting to market surveillance authority |

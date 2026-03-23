@@ -1,5 +1,24 @@
-# Conformity: konformitaetserklaerung
+# 欧盟合格声明 – Art. 47
 
-::: info 翻译
-完整内容请参阅 [German version](/de/08-konformitaet/konformitaetserklaerung). 中文翻译跟随德语源版本。
-:::
+## 要求
+
+高风险AI系统的提供者必须签发 **欧盟合格声明**，确认该系统符合 AI Act 的要求。
+
+## 内容
+
+声明必须至少包含以下信息：
+
+- 提供者的名称和地址
+- AI系统的唯一标识（名称、类型、序列号/版本）
+- 声明该系统符合 AI Act 的要求
+- 引用的协调标准或其他技术规范
+- 如适用，Notified Body 的名称和识别编号（适用于 Annex VII）
+- 日期和签名
+
+## 保存
+
+欧盟合格声明必须在投放市场后保存 **10年**，并在主管机关要求时提交。
+
+## 模板
+
+参见：[欧盟合格声明模板](/zh/templates/konformitaetserklaerung)

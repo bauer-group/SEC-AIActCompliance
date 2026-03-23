@@ -1,5 +1,29 @@
-# AI Office & AI Board
+# AI Office 与 AI Board
 
-::: info 翻译
-完整内容请参阅 [German version](/de/09-durchsetzung/ai-office). 中文翻译跟随德语源版本。
-:::
+## EU AI Office
+
+AI Office 根据欧盟委员会决定于 **2024年1月24日** 设立，自 **2025年8月2日** 起正式运作。
+
+### 职责
+
+- 执行 GPAI 规则（第88–94条）
+- 协调 AI Act 的统一适用
+- 支持成员国
+- 管理欧盟数据库
+- 监控 GPAI 模型引发的系统性风险
+- 发布指南和最佳实践
+
+## AI Board
+
+AI Board 由成员国代表组成，为欧盟委员会提供咨询。自2025年8月起正式运作。
+
+### 职责
+
+- 确保 AI Act 的一致适用
+- 在成员国之间交流最佳实践
+- 就授权法案向欧盟委员会提供建议
+- 协调各国主管机构
+
+## 与 BAUER GROUP 的相关性
+
+AI Office 和 AI Board 主要涉及 **监管基础设施**。BAUER GROUP 与这些机构的直接互动仅在特殊情况下（如针对特定分类问题的咨询或与 GPAI 相关的议题）才会发生。

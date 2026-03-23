@@ -1,5 +1,43 @@
-# Template: transparenz-hinweis
+# 模板：透明度通知
 
-::: info 翻译
-完整内容请参阅 [German version](/de/templates/transparenz-hinweis). 中文翻译跟随德语源版本。
-:::
+## AI辅助交互通知（第50条第1款）
+
+以下通知应在所有允许自然人与AI直接交互的 BAUER GROUP 产品中使用：
+
+### 变体1：聊天机器人/对话式AI
+
+```
+🤖 AI助手
+您正在与 BAUER GROUP 的AI驱动助手进行交流。
+回复由系统自动生成，可能包含错误。
+做出重要决策时，请咨询人工联系人。
+```
+
+### 变体2：精简版（空间有限时使用）
+
+```
+本助手由人工智能提供支持。
+```
+
+### 变体3：AI生成内容（第50条第2款）
+
+```
+本内容在人工智能的辅助下创建。
+```
+
+## 技术实施
+
+- **聊天机器人：** 在聊天页头或作为第一条消息显示通知
+- **Web应用程序：** 在AI驱动功能旁显示信息标记或工具提示
+- **API文档：** 在API描述中加入通知
+- **电子邮件/文档：** 在AI生成内容的页脚添加通知
+
+## 机器可读标记
+
+对于合成内容（第50条第2款），另需添加：
+
+```html
+<meta name="ai-generated" content="true">
+<meta name="ai-provider" content="BAUER GROUP">
+<meta name="ai-model" content="[模型名称]">
+```

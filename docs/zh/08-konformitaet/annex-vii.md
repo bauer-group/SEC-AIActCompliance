@@ -1,5 +1,19 @@
-# Conformity: annex-vii
+# 第三方合格评定 – Annex VII
 
-::: info 翻译
-完整内容请参阅 [German version](/de/08-konformitaet/annex-vii). 中文翻译跟随德语源版本。
+## 何时需要？
+
+只有特定高风险系统才需要由 **Notified Body**（公告机构）进行评估，特别是远程生物识别和特定执法领域的AI。
+
+## 程序 (Annex VII)
+
+该程序包括以下方面的评估：
+
+1. **质量管理体系** — 由公告机构对 QMS 进行全面审查
+2. **技术文档** — 审查完整性和合理性
+3. **抽样检测** — 对系统本身进行测试
+
+公告机构在评估结果为正面时签发 **证书**。
+
+::: danger BAUER GROUP 立场
+需要 Annex VII 评估的系统对于欧盟市场而言 **自动视为不可行**。所需投入（Notified Body 费用、准备时间、定期审计）对于 BAUER GROUP 的商业模式而言不成比例。
 :::
