@@ -12,7 +12,7 @@ Jede Organisation sollte ein Inventar aller KI-Systeme führen, die sie entwicke
 | Name | Produktname / interne Bezeichnung |
 | Beschreibung | Kurzbeschreibung der KI-Funktionalität |
 | KI-Komponente | Typ (ML, DL, LLM, etc.) |
-| Rolle BAUER | Provider / Deployer / Distributor |
+| Rolle BAUER GROUP | Provider / Deployer / Distributor |
 | Risikostufe | Verboten / Hoch / Begrenzt / Minimal |
 | Go/No-Go EU | Go / No-Go / Offen |
 | Frist | Relevante Compliance-Deadline |

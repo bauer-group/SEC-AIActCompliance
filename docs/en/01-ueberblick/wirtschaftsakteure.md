@@ -42,10 +42,10 @@ Makes AI systems available on the EU market without being a provider or importer
 
 | Scenario | Role | Obligation Catalogue |
 |---|---|---|
-| BAUER develops own AI system for customers | **Provider** | Full (Art. 16–21) |
-| BAUER integrates third-party AI (e.g. OpenAI, Claude) into own product | **Provider** (Art. 25) | Full — whoever distributes AI under their own name assumes provider obligations |
-| BAUER uses AI tools internally (e.g. Claude, GitHub Copilot) | **Deployer** | Reduced (Art. 26) |
-| BAUER distributes a partner's AI system | **Distributor** | Due diligence obligations (Art. 24) |
+| BAUER GROUP develops own AI system for customers | **Provider** | Full (Art. 16–21) |
+| BAUER GROUP integrates third-party AI (e.g. OpenAI, Claude) into own product | **Provider** (Art. 25) | Full — whoever distributes AI under their own name assumes provider obligations |
+| BAUER GROUP uses AI tools internally (e.g. Claude, GitHub Copilot) | **Deployer** | Reduced (Art. 26) |
+| BAUER GROUP distributes a partner's AI system | **Distributor** | Due diligence obligations (Art. 24) |
 
 ::: warning Important: Art. 25 – Transfer of Responsibility
 Whoever places an AI system on the market **under their own name** becomes the provider — even if they did not develop the system themselves. This also applies to **substantial modifications** to an existing system or a change of intended purpose of a high-risk system.

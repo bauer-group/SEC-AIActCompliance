@@ -27,9 +27,9 @@ Providers must document:
 
 | Scenario | Approach |
 |---|---|
-| BAUER trains its own models | Full Data Governance documentation required |
-| BAUER uses third-party models (API) | Documentation of the provider's terms of use, input/output monitoring |
-| BAUER fine-tunes third-party models | Data Governance for the fine-tuning dataset required |
+| BAUER GROUP trains its own models | Full Data Governance documentation required |
+| BAUER GROUP uses third-party models (API) | Documentation of the provider's terms of use, input/output monitoring |
+| BAUER GROUP fine-tunes third-party models | Data Governance for the fine-tuning dataset required |
 
 ::: warning Disproportionate Effort
 Where the Data Governance requirements (particularly for training data documentation, bias analysis, representativeness evidence) exceed the product value → **No-Go EU**, distribution in third-country markets only.

@@ -17,7 +17,7 @@ This inventory is to be completed for every AI system within the BAUER GROUP. It
 | **Description** | [Brief description of the AI functionality] |
 | **AI technology** | [ML / DL / LLM / RL / Other] |
 | **Third-party AI model** | [Yes/No — if yes, which one: e.g. Claude API, GPT-4] |
-| **BAUER role** | [Provider / Deployer / Distributor] |
+| **BAUER GROUP role** | [Provider / Deployer / Distributor] |
 | **Target market** | [EU / Third market / Both] |
 | **Risk level** | [Prohibited / High / Limited / Minimal / Not classified] |
 | **Art. 5 review** | [Passed / Failed / Pending] |

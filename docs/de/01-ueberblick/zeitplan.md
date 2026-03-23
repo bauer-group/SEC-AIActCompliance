@@ -4,7 +4,7 @@
 
 Der AI Act wird schrittweise anwendbar. Für die BAUER GROUP sind folgende Fristen operativ relevant:
 
-| Datum | Pflicht | Status | BAUER Relevanz |
+| Datum | Pflicht | Status | BAUER GROUP Relevanz |
 |---|---|---|---|
 | **01.08.2024** | Inkrafttreten | ✅ Erfolgt | Vorbereitungsphase |
 | **02.02.2025** | Verbotene KI-Praktiken (Art. 5) + AI Literacy (Art. 4) | ✅ Anwendbar | Prüfung aller Produkte gegen Verbotskatalog |

@@ -26,7 +26,7 @@ GPAI models under a **free and open licence** (parameters, architecture, and usa
 
 | Question | Answer |
 |---|---|
-| Is BAUER a GPAI model provider? | **No** |
+| Is BAUER GROUP a GPAI model provider? | **No** |
 | Do Art. 53/55 apply to BAUER? | **No** — they apply to the model providers (Anthropic, OpenAI, etc.) |
-| What must BAUER verify? | Whether the GPAI providers used fulfil their obligations (due diligence) |
-| Does BAUER become a provider? | Only if a GPAI-based system is placed on the EU market under its own name as a high-risk system |
+| What must BAUER GROUP verify? | Whether the GPAI providers used fulfil their obligations (due diligence) |
+| Does BAUER GROUP become a provider? | Only if a GPAI-based system is placed on the EU market under its own name as a high-risk system |

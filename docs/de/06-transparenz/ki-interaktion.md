@@ -22,7 +22,7 @@ Bei B2B-Produkten, die KI-Funktionen über APIs bereitstellen, wird der Hinweis 
 
 ### Ausnahme: Offensichtlichkeit
 
-Wenn aus dem Kontext offensichtlich ist, dass eine KI-Interaktion stattfindet (z.B. der Dienst heißt „BAUER AI Assistant"), kann der explizite Hinweis entfallen. Empfehlung: dennoch kennzeichnen.
+Wenn aus dem Kontext offensichtlich ist, dass eine KI-Interaktion stattfindet (z.B. der Dienst heißt „BAUER GROUP AI Assistant"), kann der explizite Hinweis entfallen. Empfehlung: dennoch kennzeichnen.
 
 ## Template
 

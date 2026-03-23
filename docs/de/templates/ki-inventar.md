@@ -17,7 +17,7 @@ Dieses Inventar ist für jedes KI-System der BAUER GROUP auszufüllen. Es dient 
 | **Beschreibung** | [Kurzbeschreibung der KI-Funktionalität] |
 | **KI-Technologie** | [ML / DL / LLM / RL / Andere] |
 | **Dritt-KI-Modell** | [Ja/Nein — wenn ja, welches: z.B. Claude API, GPT-4] |
-| **Rolle BAUER** | [Provider / Deployer / Distributor] |
+| **Rolle BAUER GROUP** | [Provider / Deployer / Distributor] |
 | **Zielmarkt** | [EU / Drittmarkt / Beide] |
 | **Risikostufe** | [Verboten / Hoch / Begrenzt / Minimal / Nicht klassifiziert] |
 | **Art. 5 Prüfung** | [Bestanden / Nicht bestanden / Ausstehend] |

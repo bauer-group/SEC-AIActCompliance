@@ -4,7 +4,7 @@
 
 The AI Act follows a risk-based approach. Obligations scale with the level of risk:
 
-| Tier | Description | Obligations | BAUER Relevance |
+| Tier | Description | Obligations | BAUER GROUP Relevance |
 |---|---|---|---|
 | **Unacceptable Risk** | AI practices that threaten fundamental rights, safety or democratic values | **Prohibited** (Art. 5) | Screen all products against the prohibition catalogue |
 | **High Risk** | AI systems in critical areas (Annex I/III) | Full compliance package (Art. 8–49) | Go/no-go decision per product |

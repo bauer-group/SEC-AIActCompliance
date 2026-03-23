@@ -12,7 +12,7 @@ Every organisation should maintain an inventory of all AI systems it develops, d
 | Name | Product name / internal designation |
 | Description | Brief description of the AI functionality |
 | AI Component | Type (ML, DL, LLM, etc.) |
-| BAUER Role | Provider / Deployer / Distributor |
+| BAUER GROUP Role | Provider / Deployer / Distributor |
 | Risk Level | Prohibited / High / Limited / Minimal |
 | Go/No-Go EU | Go / No-Go / Open |
 | Deadline | Relevant compliance deadline |

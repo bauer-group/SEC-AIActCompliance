@@ -22,7 +22,7 @@ For B2B products that provide AI functionality via APIs, the notice is embedded 
 
 ### Exception: Obviousness
 
-If it is obvious from the context that an AI interaction is taking place (e.g. the service is called "BAUER AI Assistant"), the explicit notice may be omitted. Recommendation: label it nonetheless.
+If it is obvious from the context that an AI interaction is taking place (e.g. the service is called "BAUER GROUP AI Assistant"), the explicit notice may be omitted. Recommendation: label it nonetheless.
 
 ## Template
 

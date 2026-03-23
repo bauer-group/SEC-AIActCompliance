@@ -6,7 +6,7 @@ Annex I listet die EU-Harmonisierungsrechtsakte, bei denen KI-Systeme als **Sich
 
 ## Sektion A – Relevante Rechtsakte (Auswahl)
 
-| Rechtsakt | Typische Produkte | BAUER Relevanz |
+| Rechtsakt | Typische Produkte | BAUER GROUP Relevanz |
 |---|---|---|
 | Maschinenverordnung (EU) 2023/1230 | Industriemaschinen, Roboter | ⚠️ Embedded AI in Robotik |
 | Medizinprodukte-VO (EU) 2017/745 | Medizinprodukte mit KI | ❌ Nicht im Portfolio |
@@ -24,7 +24,7 @@ Sektion B umfasst zusätzliche Rechtsakte (Zivilluftfahrt, Fahrzeugsicherheit, e
 
 Für die BAUER GROUP sind aus Annex I primär relevant:
 
-1. **Maschinenverordnung** — nur wenn BAUER autonome Robotik-Systeme mit KI-Steuerung unter eigenem Namen vertreibt
+1. **Maschinenverordnung** — nur wenn BAUER GROUP autonome Robotik-Systeme mit KI-Steuerung unter eigenem Namen vertreibt
 2. **Funkanlagen-RL** — nur wenn IoT-Geräte (ESP32 etc.) eine KI-Entscheidungskomponente enthalten, die sicherheitsrelevant ist
 
 ::: tip Praxisregel

@@ -27,9 +27,9 @@ Provider müssen dokumentieren:
 
 | Szenario | Ansatz |
 |---|---|
-| BAUER trainiert eigene Modelle | Vollständige Data-Governance-Dokumentation erforderlich |
-| BAUER nutzt Dritt-Modelle (API) | Dokumentation der Nutzungsbedingungen des Anbieters, Input/Output-Monitoring |
-| BAUER finetuned Dritt-Modelle | Data Governance für Finetuning-Datensatz erforderlich |
+| BAUER GROUP trainiert eigene Modelle | Vollständige Data-Governance-Dokumentation erforderlich |
+| BAUER GROUP nutzt Dritt-Modelle (API) | Dokumentation der Nutzungsbedingungen des Anbieters, Input/Output-Monitoring |
+| BAUER GROUP finetuned Dritt-Modelle | Data Governance für Finetuning-Datensatz erforderlich |
 
 ::: warning Unverhältnismäßiger Aufwand
 Wenn die Data-Governance-Anforderungen (insb. für Trainingsdaten-Dokumentation, Bias-Analyse, Repräsentativitätsnachweis) den Produktwert übersteigen → **No-Go EU**, Vertrieb nur in Drittmärkten.

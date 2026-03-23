@@ -6,7 +6,7 @@ Annex I lists the EU harmonisation legislative acts under which AI systems may q
 
 ## Section A – Relevant Legislative Acts (Selection)
 
-| Legislative Act | Typical Products | BAUER Relevance |
+| Legislative Act | Typical Products | BAUER GROUP Relevance |
 |---|---|---|
 | Machinery Regulation (EU) 2023/1230 | Industrial machinery, robots | ⚠️ Embedded AI in robotics |
 | Medical Devices Regulation (EU) 2017/745 | Medical devices with AI | ❌ Not in portfolio |
@@ -24,7 +24,7 @@ Section B covers additional legislative acts (civil aviation, vehicle safety, et
 
 For the BAUER GROUP, the primarily relevant items from Annex I are:
 
-1. **Machinery Regulation** — only if BAUER markets autonomous robotics systems with AI control under its own name
+1. **Machinery Regulation** — only if BAUER GROUP markets autonomous robotics systems with AI control under its own name
 2. **Radio Equipment Directive** — only if IoT devices (ESP32 etc.) contain a safety-relevant AI decision-making component
 
 ::: tip Practical Rule

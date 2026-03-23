@@ -4,7 +4,7 @@
 
 Der AI Act verfolgt einen risikobasierten Ansatz. Die Pflichten skalieren mit dem Risiko:
 
-| Stufe | Beschreibung | Pflichten | BAUER Relevanz |
+| Stufe | Beschreibung | Pflichten | BAUER GROUP Relevanz |
 |---|---|---|---|
 | **Unannehmbares Risiko** | KI-Praktiken die Grundrechte, Sicherheit oder demokratische Werte bedrohen | **Verboten** (Art. 5) | Prüfung aller Produkte gegen Verbotskatalog |
 | **Hohes Risiko** | KI-Systeme in kritischen Bereichen (Annex I/III) | Vollständiges Compliance-Paket (Art. 8–49) | Go/No-Go-Entscheidung pro Produkt |

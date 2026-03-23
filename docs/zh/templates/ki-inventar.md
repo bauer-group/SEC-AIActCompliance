@@ -17,7 +17,7 @@
 | **描述** | [AI功能简要描述] |
 | **AI技术** | [ML / DL / LLM / RL / 其他] |
 | **第三方AI模型** | [是/否——如是，具体为：如 Claude API、GPT-4] |
-| **BAUER 角色** | [Provider / Deployer / Distributor] |
+| **BAUER GROUP 角色** | [Provider / Deployer / Distributor] |
 | **目标市场** | [欧盟 / 第三方市场 / 两者] |
 | **风险等级** | [禁止 / 高 / 有限 / 最低 / 未分类] |
 | **第5条审查** | [通过 / 未通过 / 待定] |

@@ -42,10 +42,10 @@ Macht KI-Systeme auf dem EU-Markt verfügbar, ohne Provider oder Importeur zu se
 
 | Szenario | Rolle | Pflichtenkatalog |
 |---|---|---|
-| BAUER entwickelt eigenes KI-System für Kunden | **Provider** | Vollständig (Art. 16–21) |
-| BAUER integriert Dritt-KI (z.B. OpenAI, Claude) in eigenes Produkt | **Provider** (Art. 25) | Vollständig — wer KI unter eigenem Namen vertreibt, übernimmt Provider-Pflichten |
-| BAUER nutzt KI-Tools intern (z.B. Claude, GitHub Copilot) | **Deployer** | Reduziert (Art. 26) |
-| BAUER vertreibt KI-System eines Partners | **Distributor** | Sorgfaltspflichten (Art. 24) |
+| BAUER GROUP entwickelt eigenes KI-System für Kunden | **Provider** | Vollständig (Art. 16–21) |
+| BAUER GROUP integriert Dritt-KI (z.B. OpenAI, Claude) in eigenes Produkt | **Provider** (Art. 25) | Vollständig — wer KI unter eigenem Namen vertreibt, übernimmt Provider-Pflichten |
+| BAUER GROUP nutzt KI-Tools intern (z.B. Claude, GitHub Copilot) | **Deployer** | Reduziert (Art. 26) |
+| BAUER GROUP vertreibt KI-System eines Partners | **Distributor** | Sorgfaltspflichten (Art. 24) |
 
 ::: warning Wichtig: Art. 25 – Verantwortungsverlagerung
 Wer ein KI-System **unter eigenem Namen** in Verkehr bringt, wird zum Provider — auch wenn man das System nicht selbst entwickelt hat. Das gilt auch für **wesentliche Änderungen** an einem bestehenden System oder die Zweckänderung eines Hochrisiko-Systems.

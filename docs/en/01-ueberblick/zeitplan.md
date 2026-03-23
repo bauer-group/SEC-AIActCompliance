@@ -4,7 +4,7 @@
 
 The AI Act becomes applicable in stages. The following deadlines are operationally relevant for the BAUER GROUP:
 
-| Date | Obligation | Status | BAUER Relevance |
+| Date | Obligation | Status | BAUER GROUP Relevance |
 |---|---|---|---|
 | **01.08.2024** | Entry into force | ✅ Completed | Preparation phase |
 | **02.02.2025** | Prohibited AI practices (Art. 5) + AI Literacy (Art. 4) | ✅ Applicable | Review of all products against the prohibition catalogue |
