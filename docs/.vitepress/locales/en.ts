@@ -1,7 +1,27 @@
-import type { DefaultTheme, LocaleSpecificConfig } from 'vitepress'
+import type { LocaleSpecificConfig } from 'vitepress'
+import type { ThemeConfig } from '../theme/types'
 
-export const en: LocaleSpecificConfig<DefaultTheme.Config> = {
+export const en: LocaleSpecificConfig<ThemeConfig> & { label: string; link: string } = {
+  label: 'English',
+  lang: 'en',
+  link: '/en/',
+  description: 'EU AI Act – Compliance Documentation | BAUER GROUP',
+
   themeConfig: {
+    // -----------------------------------------------------------------
+    // Announcement Banner
+    // -----------------------------------------------------------------
+
+    announcement: {
+      text: 'This document is under active development and has not been finalised.',
+      type: 'warning',
+      dismissible: true,
+    },
+
+    // -----------------------------------------------------------------
+    // Navigation
+    // -----------------------------------------------------------------
+
     nav: [
       { text: 'Overview', link: '/en/01-ueberblick/' },
       { text: 'Risk Levels', link: '/en/02-risikoklassifizierung/' },
@@ -9,6 +29,11 @@ export const en: LocaleSpecificConfig<DefaultTheme.Config> = {
       { text: 'GPAI', link: '/en/05-gpai/' },
       { text: 'Compliance Matrix', link: '/en/10-compliance-matrix/' },
     ],
+
+    // -----------------------------------------------------------------
+    // Sidebar
+    // -----------------------------------------------------------------
+
     sidebar: {
       '/en/': [
         {
@@ -133,7 +158,29 @@ export const en: LocaleSpecificConfig<DefaultTheme.Config> = {
         },
       ],
     },
-    outline: { label: 'On this page' },
-    editLink: { text: 'Edit this page on GitHub' },
-  },
+
+    // -----------------------------------------------------------------
+    // UI Translations
+    // -----------------------------------------------------------------
+
+    editLink: {
+      pattern: 'https://github.com/bauer-group/SEC-AIActCompliance/edit/main/docs/:path',
+      text: 'Edit this page'
+    },
+    lastUpdated: {
+      text: 'Last updated',
+      formatOptions: { dateStyle: 'long', timeStyle: 'short' }
+    },
+    outline: { label: 'On this page', level: [2, 3] },
+    docFooter: { prev: 'Previous', next: 'Next' },
+    returnToTopLabel: 'Back to top',
+    sidebarMenuLabel: 'Menu',
+    darkModeSwitchLabel: 'Appearance',
+    langMenuLabel: 'Language',
+
+    footer: {
+      message: 'Documentation licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a> · Code licensed under <a href="https://opensource.org/licenses/MIT" target="_blank">MIT</a>',
+      copyright: `© ${new Date().getFullYear()} BAUER GROUP. Commercial use of the documentation is not permitted.`
+    },
+  }
 }

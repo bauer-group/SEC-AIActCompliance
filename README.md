@@ -126,4 +126,4 @@ Dieses Repository verwendet ein **Dual-License-Modell**:
 | Code, Workflows, Konfiguration | [MIT License](LICENSE) | `MIT` |
 | Dokumentation (`docs/`) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) | `CC-BY-NC-4.0` |
 
-Copyright © 2026 BAUER GROUP GmbH & Co. KG
+Copyright © 2026 BAUER GROUP

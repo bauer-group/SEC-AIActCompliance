@@ -1,7 +1,27 @@
-import type { DefaultTheme, LocaleSpecificConfig } from 'vitepress'
+import type { LocaleSpecificConfig } from 'vitepress'
+import type { ThemeConfig } from '../theme/types'
 
-export const de: LocaleSpecificConfig<DefaultTheme.Config> = {
+export const de: LocaleSpecificConfig<ThemeConfig> & { label: string; link: string } = {
+  label: 'Deutsch',
+  lang: 'de-DE',
+  link: '/de/',
+  description: 'EU AI Act – Compliance-Dokumentation | BAUER GROUP',
+
   themeConfig: {
+    // -----------------------------------------------------------------
+    // Announcement Banner
+    // -----------------------------------------------------------------
+
+    announcement: {
+      text: 'Dieses Dokument befindet sich in aktiver Entwicklung und ist noch nicht finalisiert.',
+      type: 'warning',
+      dismissible: true,
+    },
+
+    // -----------------------------------------------------------------
+    // Navigation
+    // -----------------------------------------------------------------
+
     nav: [
       { text: 'Überblick', link: '/de/01-ueberblick/' },
       { text: 'Risikostufen', link: '/de/02-risikoklassifizierung/' },
@@ -9,6 +29,11 @@ export const de: LocaleSpecificConfig<DefaultTheme.Config> = {
       { text: 'GPAI', link: '/de/05-gpai/' },
       { text: 'Compliance-Matrix', link: '/de/10-compliance-matrix/' },
     ],
+
+    // -----------------------------------------------------------------
+    // Sidebar
+    // -----------------------------------------------------------------
+
     sidebar: {
       '/de/': [
         {
@@ -133,9 +158,29 @@ export const de: LocaleSpecificConfig<DefaultTheme.Config> = {
         },
       ],
     },
-    outline: { label: 'Auf dieser Seite' },
+
+    // -----------------------------------------------------------------
+    // UI Translations
+    // -----------------------------------------------------------------
+
+    editLink: {
+      pattern: 'https://github.com/bauer-group/SEC-AIActCompliance/edit/main/docs/:path',
+      text: 'Diese Seite bearbeiten'
+    },
+    lastUpdated: {
+      text: 'Zuletzt aktualisiert',
+      formatOptions: { dateStyle: 'long', timeStyle: 'short' }
+    },
+    outline: { label: 'Auf dieser Seite', level: [2, 3] },
     docFooter: { prev: 'Vorherige Seite', next: 'Nächste Seite' },
-    lastUpdated: { text: 'Zuletzt aktualisiert' },
-    editLink: { text: 'Diese Seite auf GitHub bearbeiten' },
-  },
+    returnToTopLabel: 'Zurück nach oben',
+    sidebarMenuLabel: 'Menü',
+    darkModeSwitchLabel: 'Erscheinungsbild',
+    langMenuLabel: 'Sprache',
+
+    footer: {
+      message: 'Dokumentation lizenziert unter <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a> · Code lizenziert unter <a href="https://opensource.org/licenses/MIT" target="_blank">MIT</a>',
+      copyright: `© ${new Date().getFullYear()} BAUER GROUP. Kommerzielle Nutzung der Dokumentation nicht gestattet.`
+    },
+  }
 }

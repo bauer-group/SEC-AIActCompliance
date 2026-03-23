@@ -38,6 +38,6 @@ Für synthetische Inhalte (Art. 50 Abs. 2) zusätzlich:
 
 ```html
 <meta name="ai-generated" content="true">
-<meta name="ai-provider" content="BAUER GROUP GmbH & Co. KG">
+<meta name="ai-provider" content="BAUER GROUP">
 <meta name="ai-model" content="[Modellbezeichnung]">
 ```

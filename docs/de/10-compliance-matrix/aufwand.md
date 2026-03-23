@@ -12,13 +12,16 @@
 ## Entscheidungsregeln
 
 ### Automatisch GO
+
 - Minimales Risiko
 - Begrenztes Risiko (Transparenzpflichten sind trivial)
 
 ### Go/No-Go-Bewertung erforderlich
+
 - Hochrisiko mit Selbstbewertung (Annex VI)
 
 ### Automatisch NO-GO EU
+
 - Hochrisiko mit Drittstellen-Bewertung (Annex VII)
 - Jedes System, bei dem Compliance-Aufwand > 15% des 3-Jahres-Deckungsbeitrags
 

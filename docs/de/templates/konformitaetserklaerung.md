@@ -7,7 +7,7 @@
 ### Verordnung (EU) 2024/1689 — Artificial Intelligence Act
 
 **Provider:**
-BAUER GROUP GmbH & Co. KG
+BAUER GROUP
 [Adresse]
 [Kontakt]
 

@@ -7,10 +7,12 @@ Provider müssen Hochrisiko-KI-Systeme **vor Markteinführung** in der EU-Datenb
 ## Registrierungsinhalte (Annex VIII)
 
 ### Sektion A — Provider-Informationen
+
 - Name, Anschrift, Kontaktdaten
 - Ggf. Name des Bevollmächtigten
 
 ### Sektion B — System-Informationen
+
 - Bezeichnung und Version des KI-Systems
 - Status (auf dem Markt / zurückgezogen)
 - Beschreibung des bestimmungsgemäßen Zwecks

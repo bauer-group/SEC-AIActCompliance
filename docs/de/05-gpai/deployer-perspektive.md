@@ -15,9 +15,11 @@ Die BAUER GROUP nutzt GPAI-Modelle (LLMs) in verschiedenen Kontexten:
 Als professioneller Nutzer von KI-Systemen hat die BAUER GROUP folgende Deployer-Pflichten:
 
 ### Allgemein (alle KI-Systeme)
+
 - **AI Literacy** (Art. 4) — Personal mit KI-Kontakt muss ausreichend geschult sein
 
 ### Bei Hochrisiko-KI (falls eingesetzt)
+
 - Bestimmungsgemäßer Einsatz gemäß Anbieteranweisungen
 - Menschliche Aufsicht sicherstellen
 - Input-Datenqualität kontrollieren
@@ -26,6 +28,7 @@ Als professioneller Nutzer von KI-Systemen hat die BAUER GROUP folgende Deployer
 - Bei Einsatz am Arbeitsplatz: Arbeitnehmer informieren
 
 ### Bei Transparenzpflichten (Art. 50)
+
 - Kennzeichnung von KI-generierten Inhalten
 - Offenlegung von KI-Interaktionen (Chatbots)
 

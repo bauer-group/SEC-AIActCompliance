@@ -3,7 +3,7 @@ layout: home
 hero:
   name: AI Act Compliance
   text: Verordnung (EU) 2024/1689
-  tagline: Compliance-Dokumentation der BAUER GROUP GmbH & Co. KG
+  tagline: Compliance-Dokumentation der BAUER GROUP
   actions:
     - theme: brand
       text: Deutsch

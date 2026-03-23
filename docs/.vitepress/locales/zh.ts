@@ -1,7 +1,27 @@
-import type { DefaultTheme, LocaleSpecificConfig } from 'vitepress'
+import type { LocaleSpecificConfig } from 'vitepress'
+import type { ThemeConfig } from '../theme/types'
 
-export const zh: LocaleSpecificConfig<DefaultTheme.Config> = {
+export const zh: LocaleSpecificConfig<ThemeConfig> & { label: string; link: string } = {
+  label: '简体中文',
+  lang: 'zh-CN',
+  link: '/zh/',
+  description: 'EU AI Act – 合规文档 | BAUER GROUP',
+
   themeConfig: {
+    // -----------------------------------------------------------------
+    // Announcement Banner
+    // -----------------------------------------------------------------
+
+    announcement: {
+      text: '本文档正在积极开发中，尚未最终定稿。',
+      type: 'warning',
+      dismissible: true,
+    },
+
+    // -----------------------------------------------------------------
+    // Navigation
+    // -----------------------------------------------------------------
+
     nav: [
       { text: '概述', link: '/zh/01-ueberblick/' },
       { text: '风险分类', link: '/zh/02-risikoklassifizierung/' },
@@ -9,6 +29,11 @@ export const zh: LocaleSpecificConfig<DefaultTheme.Config> = {
       { text: 'GPAI', link: '/zh/05-gpai/' },
       { text: '合规矩阵', link: '/zh/10-compliance-matrix/' },
     ],
+
+    // -----------------------------------------------------------------
+    // Sidebar
+    // -----------------------------------------------------------------
+
     sidebar: {
       '/zh/': [
         {
@@ -133,9 +158,29 @@ export const zh: LocaleSpecificConfig<DefaultTheme.Config> = {
         },
       ],
     },
-    outline: { label: '本页内容' },
+
+    // -----------------------------------------------------------------
+    // UI Translations
+    // -----------------------------------------------------------------
+
+    editLink: {
+      pattern: 'https://github.com/bauer-group/SEC-AIActCompliance/edit/main/docs/:path',
+      text: '编辑此页面'
+    },
+    lastUpdated: {
+      text: '最后更新',
+      formatOptions: { dateStyle: 'long', timeStyle: 'short' }
+    },
+    outline: { label: '本页目录', level: [2, 3] },
     docFooter: { prev: '上一页', next: '下一页' },
-    lastUpdated: { text: '最后更新于' },
-    editLink: { text: '在 GitHub 上编辑此页' },
-  },
+    returnToTopLabel: '返回顶部',
+    sidebarMenuLabel: '菜单',
+    darkModeSwitchLabel: '外观',
+    langMenuLabel: '语言',
+
+    footer: {
+      message: '文档基于 <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a> 许可 · 代码基于 <a href="https://opensource.org/licenses/MIT" target="_blank">MIT</a> 许可',
+      copyright: `© ${new Date().getFullYear()} BAUER GROUP。禁止将文档用于商业用途。`
+    },
+  }
 }

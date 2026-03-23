@@ -5,10 +5,12 @@
 Die Durchsetzung des AI Act erfolgt auf zwei Ebenen:
 
 ### EU-Ebene
+
 - **AI Office** (innerhalb der EU-Kommission) — zuständig für GPAI-Modelle und systemische Risiken
 - **AI Board** — Koordinierungsgremium der Mitgliedstaaten
 
 ### Nationale Ebene
+
 - **Marktüberwachungsbehörden** — zuständig für Hochrisiko-KI und sonstige Pflichten
 - **Notifizierende Behörden** — Überwachung der benannten Stellen (Notified Bodies)
 

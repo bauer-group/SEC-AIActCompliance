@@ -9,6 +9,7 @@ Die technische Dokumentation muss **vor Markteinführung** erstellt werden und *
 Die technische Dokumentation muss mindestens umfassen:
 
 ### Allgemeine Beschreibung
+
 - Bestimmungsgemäßer Zweck des KI-Systems
 - Name und Kontaktdaten des Providers
 - Interaktion mit Hardware oder anderer Software
@@ -16,6 +17,7 @@ Die technische Dokumentation muss mindestens umfassen:
 - Beschreibung der Schnittstellen (API, UI)
 
 ### Design und Entwicklung
+
 - Design-Spezifikationen (Architektur, Algorithmen, Modellstruktur)
 - Designentscheidungen und -annahmen (inkl. Risikobewertung)
 - Beschreibung des Trainings-, Validierungs- und Testprozesses
@@ -23,12 +25,14 @@ Die technische Dokumentation muss mindestens umfassen:
 - Verwendete Metriken und Schwellenwerte
 
 ### Monitoring und Testing
+
 - Testpläne und -ergebnisse
 - Validierungsmethodik
 - Cybersicherheitsmaßnahmen (→ CRA-Synergien)
 - Erklärbarkeits-/Interpretierbarkeitsmaßnahmen
 
 ### Änderungsmanagement
+
 - Dokumentation aller wesentlichen Änderungen nach Markteinführung
 - Versionierung und Änderungshistorie
 
