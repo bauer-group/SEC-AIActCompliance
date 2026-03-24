@@ -35,3 +35,7 @@
 | Security Officer | + AI-specific threat analysis (Adversarial ML) |
 | SBOM Responsible | No extension (AI Act has no SBOM equivalent) |
 | Incident Response | + AI incident reporting to market surveillance authority |
+
+::: tip NIS2 Synergy
+Information security roles and responsibilities (ISO, IT Lead) are defined in the [NIS2 Governance Documentation](https://nis2.docs.bauer-group.com/en/governance/).
+:::

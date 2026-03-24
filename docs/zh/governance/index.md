@@ -31,3 +31,7 @@ Art. 4 要求操作AI系统的人员：
 ::: tip 最小化工作量
 AI素养被整合到现有培训流程中，而非作为单独的合规项目。入职模块创建一次，按需更新。
 :::
+
+::: tip NIS2协同效应
+NIS2下的组织风险管理框架（§30 BSIG）为AI系统治理提供了基础。详情请参阅[NIS2合规文档](https://nis2.docs.bauer-group.com/zh/governance/)。
+:::

@@ -26,6 +26,10 @@ High-risk AI systems must exhibit an **appropriate level of accuracy, robustness
 The cybersecurity requirements of Art. 15 overlap considerably with the CRA requirements (Annex I Part II). The existing CRA security architecture and vulnerability management already cover the majority of these requirements. In addition, AI-specific threats (Adversarial ML, Prompt Injection, Model Extraction) must be addressed.
 :::
 
+::: tip NIS2 Synergies
+The organizational risk management framework under NIS2 (§30 BSIG) provides the foundation for AI system cybersecurity. Incident response, access control and cryptography requirements are described in the [NIS2 Compliance Documentation](https://nis2.docs.bauer-group.com).
+:::
+
 ## BAUER GROUP Implementation
 
 | Art. 15 Requirement | CRA Coverage | AI Act Supplement |

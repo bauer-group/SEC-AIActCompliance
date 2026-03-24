@@ -31,3 +31,7 @@ Every training participation is documented. See: [AI Literacy Training Record](/
 ::: tip Minimal Effort
 AI Literacy is integrated into existing training processes, not as a separate compliance track. The onboarding module is created once and updated as needed.
 :::
+
+::: tip NIS2 Synergy
+The organizational risk management framework under NIS2 (§30 BSIG) provides the foundation for AI system governance. Details in the [NIS2 Compliance Documentation](https://nis2.docs.bauer-group.com/en/governance/).
+:::

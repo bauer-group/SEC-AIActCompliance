@@ -39,3 +39,7 @@ The AI Act applies to:
 ## Documentation Structure
 
 This documentation is structured in 10 chapters + appendix and is available in DE/EN/ZH. It forms the regulatory counterpart to the existing CRA documentation and addresses all obligations arising from the AI Act for BAUER GROUP as provider and deployer of AI-powered systems.
+
+::: tip NIS2 Reference
+For organizational cybersecurity (operational security, risk management, reporting obligations) see the [NIS2 Compliance Documentation](https://nis2.docs.bauer-group.com).
+:::

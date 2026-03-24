@@ -26,6 +26,10 @@ Hochrisiko-KI-Systeme müssen ein **angemessenes Maß an Genauigkeit, Robustheit
 Die Cybersicherheitsanforderungen des Art. 15 überschneiden sich erheblich mit den CRA-Anforderungen (Annex I Teil II). Die bestehende CRA-Sicherheitsarchitektur und das Schwachstellenmanagement decken den Großteil dieser Anforderungen bereits ab. Ergänzend sind KI-spezifische Bedrohungen (Adversarial ML, Prompt Injection, Model Extraction) zu adressieren.
 :::
 
+::: tip NIS2-Synergien
+Das organisatorische Risikomanagement-Framework nach NIS2 (§30 BSIG) bildet die Grundlage für die Cybersicherheit von KI-Systemen. Incident Response, Zugriffskontrolle und Kryptografie-Anforderungen werden in der [NIS2-Compliance-Dokumentation](https://nis2.docs.bauer-group.com) beschrieben.
+:::
+
 ## BAUER GROUP Umsetzung
 
 | Art. 15 Anforderung | CRA-Abdeckung | AI-Act-Ergänzung |

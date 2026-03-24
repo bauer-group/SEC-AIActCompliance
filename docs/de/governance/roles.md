@@ -35,3 +35,7 @@
 | Security Officer | + KI-spezifische Bedrohungsanalyse (Adversarial ML) |
 | SBOM-Verantwortlicher | Keine Erweiterung (AI Act hat kein SBOM-Äquivalent) |
 | Incident Response | + KI-Incident-Meldung an Marktüberwachungsbehörde |
+
+::: tip NIS2-Synergie
+Die Rollen und Verantwortlichkeiten für Informationssicherheit (ISB, IT-Leitung) sind in der [NIS2-Governance-Dokumentation](https://nis2.docs.bauer-group.com/de/governance/) definiert.
+:::

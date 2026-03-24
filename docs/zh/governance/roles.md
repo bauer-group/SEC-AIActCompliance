@@ -35,3 +35,7 @@
 | 安全官 | + AI特定威胁分析（Adversarial ML） |
 | SBOM负责人 | 无扩展（AI Act没有SBOM等效项） |
 | 事件响应 | + 向市场监督机构报告AI事件 |
+
+::: tip NIS2协同效应
+信息安全角色和职责（ISO、IT负责人）在[NIS2治理文档](https://nis2.docs.bauer-group.com/zh/governance/)中定义。
+:::

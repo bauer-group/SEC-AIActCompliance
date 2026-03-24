@@ -31,3 +31,7 @@ Jede Schulungsteilnahme wird dokumentiert. Siehe: [AI Literacy Schulungsnachweis
 ::: tip Minimaler Aufwand
 AI Literacy wird in bestehende Schulungsprozesse integriert, nicht als separater Compliance-Track. Das Onboarding-Modul wird einmal erstellt und bei Bedarf aktualisiert.
 :::
+
+::: tip NIS2-Synergie
+Das organisatorische Risikomanagement-Framework nach NIS2 (§30 BSIG) bildet die Grundlage für die Governance von KI-Systemen. Details in der [NIS2-Compliance-Dokumentation](https://nis2.docs.bauer-group.com/de/governance/).
+:::

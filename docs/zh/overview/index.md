@@ -39,3 +39,7 @@ AI Act适用于：
 ## 文档结构
 
 本文档分为10个章节 + 附录，提供DE/EN/ZH三种语言版本。它构成现有CRA文档的监管对应部分，涵盖AI Act对BAUER GROUP作为AI系统提供者和部署者所产生的所有义务。
+
+::: tip NIS2参考
+有关组织网络安全（运营安全、风险管理、报告义务），请参阅[NIS2合规文档](https://nis2.docs.bauer-group.com)。
+:::

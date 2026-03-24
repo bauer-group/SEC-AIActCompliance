@@ -26,6 +26,10 @@
 第15条的网络安全要求与CRA要求（Annex I第二部分）存在大量重叠。现有的CRA安全架构和漏洞管理已覆盖大部分要求。此外，还需应对AI特有的威胁（Adversarial ML、Prompt Injection、Model Extraction）。
 :::
 
+::: tip NIS2协同效应
+NIS2下的组织风险管理框架（BSIG §30）为AI系统网络安全提供了基础。事件响应、访问控制和加密要求在[NIS2合规文档](https://nis2.docs.bauer-group.com)中描述。
+:::
+
 ## BAUER GROUP 实施方案
 
 | 第15条要求 | CRA覆盖情况 | AI Act补充 |

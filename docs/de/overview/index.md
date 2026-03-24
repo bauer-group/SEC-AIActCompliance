@@ -39,3 +39,7 @@ Der AI Act gilt für:
 ## Dokumentationsstruktur
 
 Diese Dokumentation ist in 10 Kapitel + Anhang gegliedert und steht in DE/EN/ZH zur Verfügung. Sie bildet das regulatorische Gegenstück zur bestehenden CRA-Dokumentation und adressiert alle Pflichten, die sich aus dem AI Act für die BAUER GROUP als Anbieter und Betreiber von KI-gestützten Systemen ergeben.
+
+::: tip NIS2-Bezug
+Für die organisatorische Cybersicherheit (Betriebssicherheit, Risikomanagement, Meldepflichten) siehe die [NIS2-Compliance-Dokumentation](https://nis2.docs.bauer-group.com).
+:::
