@@ -1,3 +1,9 @@
+## [1.1.4](https://github.com/bauer-group/SEC-AIActCompliance/compare/v1.1.3...v1.1.4) (2026-03-26)
+
+### 🐛 Bug Fixes
+
+* **rss:** implement per-locale feeds via URL filter ([51aa706](https://github.com/bauer-group/SEC-AIActCompliance/commit/51aa70699149c46ec6f5109dcd79b0b9a065fd18))
+
 ## [1.1.3](https://github.com/bauer-group/SEC-AIActCompliance/compare/v1.1.2...v1.1.3) (2026-03-26)
 
 ### 🐛 Bug Fixes
