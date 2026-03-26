@@ -1,3 +1,9 @@
+## [1.1.1](https://github.com/bauer-group/SEC-AIActCompliance/compare/v1.1.0...v1.1.1) (2026-03-26)
+
+### 🐛 Bug Fixes
+
+* **config:** prevent RSS plugin from replacing socialLinks ([ff29e76](https://github.com/bauer-group/SEC-AIActCompliance/commit/ff29e762455d05e998b8d6eae61053b0c7fe95c0))
+
 ## [1.1.0](https://github.com/bauer-group/SEC-AIActCompliance/compare/v1.0.0...v1.1.0) (2026-03-26)
 
 ### 🚀 Features
