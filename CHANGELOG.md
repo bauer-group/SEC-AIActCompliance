@@ -1,3 +1,9 @@
+## [1.1.5](https://github.com/bauer-group/SEC-AIActCompliance/compare/v1.1.4...v1.1.5) (2026-03-26)
+
+### 🐛 Bug Fixes
+
+* **seo:** add hreflang to RSS auto-discovery link tags ([e6649c5](https://github.com/bauer-group/SEC-AIActCompliance/commit/e6649c51633f4b0498e7f89621f0dfefb4c871a2))
+
 ## [1.1.4](https://github.com/bauer-group/SEC-AIActCompliance/compare/v1.1.3...v1.1.4) (2026-03-26)
 
 ### 🐛 Bug Fixes
