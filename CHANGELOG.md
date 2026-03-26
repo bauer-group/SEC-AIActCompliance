@@ -1,3 +1,9 @@
+## [1.1.3](https://github.com/bauer-group/SEC-AIActCompliance/compare/v1.1.2...v1.1.3) (2026-03-26)
+
+### 🐛 Bug Fixes
+
+* **rss:** simplify to single feed.xml with auto-discovery ([6fed5e9](https://github.com/bauer-group/SEC-AIActCompliance/commit/6fed5e9ee19aaba515d1ed7a7616171965f7ffbc))
+
 ## [1.1.2](https://github.com/bauer-group/SEC-AIActCompliance/compare/v1.1.1...v1.1.2) (2026-03-26)
 
 ### 🐛 Bug Fixes
