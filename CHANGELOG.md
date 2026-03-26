@@ -1,3 +1,9 @@
+## [1.1.2](https://github.com/bauer-group/SEC-AIActCompliance/compare/v1.1.1...v1.1.2) (2026-03-26)
+
+### 🐛 Bug Fixes
+
+* **config:** remove RSS icon from socialLinks (not locale-aware) ([77697de](https://github.com/bauer-group/SEC-AIActCompliance/commit/77697de0bd414c57ba25ac7c6f7102c387e49cbb))
+
 ## [1.1.1](https://github.com/bauer-group/SEC-AIActCompliance/compare/v1.1.0...v1.1.1) (2026-03-26)
 
 ### 🐛 Bug Fixes
