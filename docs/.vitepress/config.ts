@@ -65,9 +65,9 @@ export default defineConfig({
   },
 
   head: [
-    ['link', { rel: 'alternate', type: 'application/rss+xml', title: 'AI Act Compliance (DE)', href: `${baseUrl}/feed-de.xml` }],
-    ['link', { rel: 'alternate', type: 'application/rss+xml', title: 'AI Act Compliance (EN)', href: `${baseUrl}/feed-en.xml` }],
-    ['link', { rel: 'alternate', type: 'application/rss+xml', title: 'AI Act Compliance (ZH)', href: `${baseUrl}/feed-zh.xml` }],
+    ['link', { rel: 'alternate', type: 'application/rss+xml', title: 'AI Act Compliance (DE)', href: `${baseUrl}/feed-de.xml`, hreflang: 'de' }],
+    ['link', { rel: 'alternate', type: 'application/rss+xml', title: 'AI Act Compliance (EN)', href: `${baseUrl}/feed-en.xml`, hreflang: 'en' }],
+    ['link', { rel: 'alternate', type: 'application/rss+xml', title: 'AI Act Compliance (ZH)', href: `${baseUrl}/feed-zh.xml`, hreflang: 'zh' }],
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.svg' }],
     ['meta', { name: 'theme-color', content: '#FF8500' }],
     ['meta', { name: 'og:type', content: 'website' }],
