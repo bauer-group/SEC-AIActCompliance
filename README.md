@@ -10,10 +10,13 @@ Vollständige Compliance-Dokumentation für den **EU Artificial Intelligence Act
 
 | Frist | Pflicht | Status |
 | --- | --- | --- |
+| **01.08.2024** | Inkrafttreten der Verordnung (EU) 2024/1689 | ✅ Erfolgt |
 | **02.02.2025** | Verbotene KI-Praktiken (Art. 5), AI Literacy (Art. 4) | ✅ Anwendbar |
 | **02.08.2025** | GPAI-Pflichten (Art. 51–56), Governance, Sanktionsregime | ✅ Anwendbar |
-| **02.08.2026** | Hochrisiko-KI (Art. 6–49), Transparenz (Art. 50), alle übrigen Pflichten | ⏳ Frist |
+| **02.08.2026** | Hochrisiko-KI (Art. 6–49), Transparenz (Art. 50), alle übrigen Pflichten | ⚠️ Hauptfrist |
 | **02.08.2027** | Hochrisiko-KI als Sicherheitskomponenten in Annex-I-Produkten | ⏳ Frist |
+
+> **Hinweis – Digital Omnibus:** Die EU-Kommission hat Ende 2025 eine mögliche Verschiebung der Hochrisiko-Pflichten für Annex-III-Systeme bis **Dezember 2027** vorgeschlagen. BAUER GROUP plant konservativ mit **August 2026** als bindender Frist. Details siehe [Zeitplan & Fristen](docs/de/overview/timeline.md).
 
 ## Projektstruktur
 
@@ -21,45 +24,48 @@ Vollständige Compliance-Dokumentation für den **EU Artificial Intelligence Act
 .
 ├── docs/                          # VitePress-Dokumentation
 │   ├── de/                        # Deutsche Dokumentation (Primärsprache)
-│   │   ├── 01-ueberblick/        # Einführung, Zeitplan, Geltungsbereich, Go/No-Go
-│   │   ├── 02-risikoklassifizierung/  # 4 Risikostufen, Annex I/III
-│   │   ├── 03-verbotene-praktiken/    # Art. 5 Verbotskatalog
-│   │   ├── 04-hochrisiko-ki/     # Art. 8–15 Anforderungen, QMS
-│   │   ├── 05-gpai/              # General-Purpose AI, Art. 51–56
-│   │   ├── 06-transparenz/       # Art. 50, Kennzeichnung
-│   │   ├── 07-governance/        # AI Literacy, Framework, Rollen
-│   │   ├── 08-konformitaet/      # Art. 43, CE, Annex VI/VII
-│   │   ├── 09-durchsetzung/      # Sanktionen, Marktüberwachung
-│   │   ├── 10-compliance-matrix/ # Anforderungszuordnung, Aufwand
+│   │   ├── overview/             # Einführung, Zeitplan, Geltungsbereich, Go/No-Go
+│   │   ├── risk-classification/  # 4 Risikostufen, Annex I/III
+│   │   ├── prohibited-practices/ # Art. 5 Verbotskatalog
+│   │   ├── high-risk-ai/         # Art. 8–15 Anforderungen, QMS
+│   │   ├── gpai/                 # General-Purpose AI, Art. 51–56
+│   │   ├── transparency/         # Art. 50, Kennzeichnung
+│   │   ├── governance/           # AI Literacy, Framework, Rollen
+│   │   ├── conformity/           # Art. 43, CE, Annex VI/VII, Machine-Readable JSON
+│   │   ├── enforcement/          # Sanktionen, Marktüberwachung, AI Office
+│   │   ├── compliance-matrix/    # Anforderungszuordnung, Aufwand
 │   │   └── templates/            # 7 Templates (Inventar, Formulare, Erklärungen)
-│   ├── en/                        # Englische Dokumentation (Stubs → Übersetzung)
-│   ├── zh/                        # Chinesische Dokumentation (Stubs → Übersetzung)
+│   ├── en/                        # Englische Dokumentation (vollständig übersetzt)
+│   ├── zh/                        # Chinesische Dokumentation (vollständig übersetzt)
 │   ├── public/                    # Statische Assets (Logo, Favicon)
 │   └── .vitepress/
-│       ├── config.ts              # VitePress-Konfiguration
+│       ├── config.ts              # VitePress-Konfiguration (Sitemap, RSS pro Locale, hreflang)
 │       ├── locales/               # DE/EN/ZH Navigation + Sidebar
-│       └── theme/                 # Custom Theme (BAUER CI)
+│       └── theme/                 # Custom Theme (BAUER CI, Print-Stylesheet)
 ├── .github/
 │   └── workflows/
-│       └── deploy-pages.yml       # VitePress-Build + GitHub Pages Deployment
+│       ├── deploy-pages.yml       # VitePress-Build + GitHub Pages Deployment
+│       ├── release.yml            # Semantic-Release Versionierung
+│       ├── ai-issue-summary.yml   # Automatisierte Issue-Zusammenfassungen
+│       └── teams-notifications.yml # MS-Teams-Benachrichtigungen
 ├── internal/docs/                 # Interne Konzeptdokumente (nicht veröffentlicht)
 └── package.json                   # @bauer-group/ai-act-compliance
 ```
 
 ## Dokumentation
 
-### Deutsche Dokumentation (Primärsprache) — 42 Seiten
+### Mehrsprachige Dokumentation — 56 Seiten je Locale (DE / EN / ZH)
 
 | Kapitel | Sektion | Inhalt | Seiten |
 | --- | --- | --- | --- |
-| **1** | Überblick | Einführung, Zeitplan, Geltungsbereich, Wirtschaftsakteure, BAUER Positionierung, Go/No-Go | 6 |
+| **1** | Überblick | Einführung, Zeitplan, Geltungsbereich, Wirtschaftsakteure, BAUER GROUP Positionierung, Go/No-Go | 6 |
 | **2** | Risikoklassifizierung | 4 Risikostufen, Entscheidungsbaum, Annex I, Annex III, Nicht-Hochrisiko | 5 |
-| **3** | Verbotene Praktiken | Art. 5 Übersicht, Verbotskatalog, BAUER Prüfschema | 3 |
+| **3** | Verbotene Praktiken | Art. 5 Übersicht, Verbotskatalog, BAUER GROUP Prüfschema | 3 |
 | **4** | Hochrisiko-KI | Art. 8–15 Anforderungen, Risikomanagement, Data Governance, Techn. Doku, Protokollierung, Transparenz, Menschl. Aufsicht, Genauigkeit, Provider-Pflichten, QMS | 10 |
 | **5** | GPAI | GPAI-Modelle, Provider-Pflichten, Systemisches Risiko, Deployer-Perspektive | 4 |
 | **6** | Transparenz | Art. 50, KI-Interaktion, Deepfakes, Kennzeichnung | 4 |
 | **7** | Governance | AI Literacy, Framework, Rollen, Inventar | 4 |
-| **8** | Konformität | Art. 43, Selbstbewertung, Annex VII, CE, Konformitätserklärung, Registrierung | 6 |
+| **8** | Konformität | Art. 43, Selbstbewertung, Annex VII, CE, Konformitätserklärung, Registrierung, Machine-Readable JSON | 7 |
 | **9** | Durchsetzung | Sanktionen, Marktüberwachung, AI Office | 3 |
 | **10** | Compliance-Matrix | Anforderungszuordnung, Aufwandsbewertung | 2 |
 | **A** | Templates | KI-Inventar, Risikoklassifizierung, Nicht-Hochrisiko-Assessment, Konformitätserklärung, Transparenz-Hinweis, AI Literacy Nachweis, Go/No-Go Protokoll | 7 |
