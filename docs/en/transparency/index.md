@@ -2,7 +2,7 @@
 
 ## Overview
 
-Art. 50 obliges providers and deployers of certain AI systems to implement transparency measures. These obligations apply **from 2 August 2026** and concern AI systems with limited risk.
+Art. 50 obliges providers and deployers of certain AI systems to implement transparency measures. These obligations apply **from 2 August 2026** and concern AI systems with limited risk. Only exception: the marking of synthetic content (Art. 50(2)) receives a grace period until **2 December 2026** under the Digital Omnibus (subject to formal adoption).
 
 ## Obligations
 
@@ -15,6 +15,8 @@ Providers of AI systems that **directly interact** with natural persons (chatbot
 ### 2. Label Synthetic Content (Art. 50(2))
 
 Providers of AI systems that generate synthetic audio, image, video or text content must label the outputs in a **machine-readable format** as AI-generated.
+
+**Deadline:** This labelling obligation applies — postponed by the Digital Omnibus — only from **2 December 2026**. The other transparency obligations under Art. 50 already apply from 2 August 2026.
 
 ### 3. Deepfake Disclosure (Art. 50(4))
 

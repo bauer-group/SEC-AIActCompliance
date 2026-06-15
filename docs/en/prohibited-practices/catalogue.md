@@ -29,3 +29,11 @@
 ### 4–8. Further Prohibitions
 
 **Status of all further grounds for prohibition:** ✅ Not affected — no products in the areas of crime prediction, facial recognition, emotion recognition in the workplace, biometric categorisation, or real-time remote biometric identification.
+
+### 9. NCII/CSAM Generation (new – Digital Omnibus)
+
+**Prohibition:** AI systems that generate or manipulate non-consensual intimate images (NCII) or child sexual abuse material (CSAM), where this is a reasonably foreseeable and reproducible outcome. Added by the Digital Omnibus (provisional agreement 7 May 2026); transitional period until **2 December 2026** (subject to formal adoption).
+
+**BAUER GROUP Review:** No BAUER GROUP products generate or manipulate image content of this kind.
+
+**Status:** ✅ Not affected

@@ -9,14 +9,18 @@ Ein GPAI-Modell wird als systemisch riskant eingestuft, wenn:
 
 Provider müssen die Kommission **innerhalb von 2 Wochen** benachrichtigen, wenn ihr Modell dieses Kriterium erfüllt.
 
-## Betroffene Modelle (Stand März 2026)
+## Betroffene Modelle (Stand Juni 2026)
 
-Modelle, die nach aktuellem Kenntnisstand als systemisch riskant gelten oder gelten könnten:
+Beispielhaft betroffen sind die leistungsfähigsten Modellfamilien führender Anbieter:
 
-- GPT-4/4o (OpenAI)
-- Claude 3.5/4 (Anthropic)
-- Gemini Ultra/Pro (Google)
-- Llama 3.1 405B (Meta)
+- GPT-Reihe (OpenAI)
+- Claude-Reihe (Anthropic)
+- Gemini-Reihe (Google)
+- Llama-Reihe (Meta)
+
+::: tip Verbindliche Einstufung
+Die maßgebliche Liste der GPAI-Modelle mit systemischem Risiko wird vom **AI Office** geführt; einzelne Modellversionen ändern sich laufend. Für die Bewertung ist stets der aktuelle Stand des AI Office heranzuziehen.
+:::
 
 ## BAUER GROUP Relevanz
 

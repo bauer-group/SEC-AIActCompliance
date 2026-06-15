@@ -2,7 +2,7 @@
 
 ## Regulation (EU) 2024/1689
 
-The **EU Artificial Intelligence Act** (AI Act) is the world's first comprehensive regulation for Artificial Intelligence. The regulation entered into force on **1 August 2024** and will become fully applicable by **2 August 2027** in phases.
+The **EU Artificial Intelligence Act** (AI Act) is the world's first comprehensive regulation for Artificial Intelligence. The regulation entered into force on **1 August 2024** and will become fully applicable in phases by **2 August 2028** (high-risk deadlines postponed by the Digital Omnibus – see [Timeline & Deadlines](./timeline)).
 
 ::: warning BAUER GROUP Guiding Principle
 This documentation serves **external regulatory completeness**. Internally: every AI system undergoes a Go/No-Go assessment before EU market entry. If compliance effort is disproportionate to expected revenue, the product will **not be offered in the EU single market**. The AI Act addresses AI systems — not software in general.
@@ -38,7 +38,7 @@ The AI Act applies to:
 
 ## Documentation Structure
 
-This documentation is structured in 10 chapters + appendix and is available in DE/EN/ZH. It forms the regulatory counterpart to the existing CRA documentation and addresses all obligations arising from the AI Act for BAUER GROUP as provider and deployer of AI-powered systems.
+This documentation is structured in 11 chapters + appendix and is available in DE/EN/ZH. It forms the regulatory counterpart to the existing CRA documentation and addresses all obligations arising from the AI Act for BAUER GROUP as provider and deployer of AI-powered systems.
 
 ::: tip NIS2 Reference
 For organizational cybersecurity (operational security, risk management, reporting obligations) see the [NIS2 Compliance Documentation](https://nis2.docs.bauer-group.com).

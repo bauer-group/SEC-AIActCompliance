@@ -13,10 +13,12 @@ Vollständige Compliance-Dokumentation für den **EU Artificial Intelligence Act
 | **01.08.2024** | Inkrafttreten der Verordnung (EU) 2024/1689 | ✅ Erfolgt |
 | **02.02.2025** | Verbotene KI-Praktiken (Art. 5), AI Literacy (Art. 4) | ✅ Anwendbar |
 | **02.08.2025** | GPAI-Pflichten (Art. 51–56), Governance, Sanktionsregime | ✅ Anwendbar |
-| **02.08.2026** | Hochrisiko-KI (Art. 6–49), Transparenz (Art. 50), alle übrigen Pflichten | ⚠️ Hauptfrist |
-| **02.08.2027** | Hochrisiko-KI als Sicherheitskomponenten in Annex-I-Produkten | ⏳ Frist |
+| **02.08.2026** | Transparenzpflichten (Art. 50) | ⚠️ Frist |
+| **02.12.2026** | Kennzeichnung synthetischer Inhalte (Art. 50 Abs. 2), neues Verbot NCII/CSAM (Art. 5) | ⏳ Übergangsfrist |
+| **02.12.2027** | Hochrisiko-KI Annex III (eigenständig, Art. 6 Abs. 2) | ⏳ Frist (Omnibus) |
+| **02.08.2028** | Hochrisiko-KI als Sicherheitskomponenten in Annex-I-Produkten | ⏳ Frist (Omnibus) |
 
-> **Hinweis – Digital Omnibus:** Die EU-Kommission hat Ende 2025 eine mögliche Verschiebung der Hochrisiko-Pflichten für Annex-III-Systeme bis **Dezember 2027** vorgeschlagen. BAUER GROUP plant konservativ mit **August 2026** als bindender Frist. Details siehe [Zeitplan & Fristen](docs/de/overview/timeline.md).
+> **Hinweis – Digital Omnibus (Stand Juni 2026):** Aus dem Kommissionsvorschlag (19.11.2025) wurde am **7. Mai 2026** eine **vorläufige Einigung** zwischen Parlament und Rat. Sie verschiebt die Hochrisiko-Pflichten auf feste Daten – Annex III auf **02.12.2027**, Annex I auf **02.08.2028** –, während die Transparenzpflichten (Art. 50) bei **02.08.2026** bleiben. Die Einigung ist noch **nicht** im EU-Amtsblatt veröffentlicht; bis zur förmlichen Annahme gilt formal weiterhin der 02.08.2026. Details siehe [Zeitplan & Fristen](docs/de/overview/timeline.md).
 
 ## Projektstruktur
 
@@ -33,6 +35,7 @@ Vollständige Compliance-Dokumentation für den **EU Artificial Intelligence Act
 │   │   ├── governance/           # AI Literacy, Framework, Rollen
 │   │   ├── conformity/           # Art. 43, CE, Annex VI/VII, Machine-Readable JSON
 │   │   ├── enforcement/          # Sanktionen, Marktüberwachung, AI Office
+│   │   ├── national-implementation/ # Nationale Umsetzung (DE/KI-MIG, AT, FR, ES, IE)
 │   │   ├── compliance-matrix/    # Anforderungszuordnung, Aufwand
 │   │   └── templates/            # 7 Templates (Inventar, Formulare, Erklärungen)
 │   ├── en/                        # Englische Dokumentation (vollständig übersetzt)
@@ -54,7 +57,7 @@ Vollständige Compliance-Dokumentation für den **EU Artificial Intelligence Act
 
 ## Dokumentation
 
-### Mehrsprachige Dokumentation — 56 Seiten je Locale (DE / EN / ZH)
+### Mehrsprachige Dokumentation — 62 Seiten je Locale (DE / EN / ZH)
 
 | Kapitel | Sektion | Inhalt | Seiten |
 | --- | --- | --- | --- |
@@ -67,7 +70,8 @@ Vollständige Compliance-Dokumentation für den **EU Artificial Intelligence Act
 | **7** | Governance | AI Literacy, Framework, Rollen, Inventar | 4 |
 | **8** | Konformität | Art. 43, Selbstbewertung, Annex VII, CE, Konformitätserklärung, Registrierung, Machine-Readable JSON | 7 |
 | **9** | Durchsetzung | Sanktionen, Marktüberwachung, AI Office | 3 |
-| **10** | Compliance-Matrix | Anforderungszuordnung, Aufwandsbewertung | 2 |
+| **10** | Nationale Umsetzung | Verordnung vs. nationale Umsetzung, Deutschland (KI-MIG), Österreich, Frankreich, Spanien, Irland | 6 |
+| **11** | Compliance-Matrix | Anforderungszuordnung, Aufwandsbewertung | 2 |
 | **A** | Templates | KI-Inventar, Risikoklassifizierung, Nicht-Hochrisiko-Assessment, Konformitätserklärung, Transparenz-Hinweis, AI Literacy Nachweis, Go/No-Go Protokoll | 7 |
 
 ### Abdeckung
@@ -80,6 +84,7 @@ Vollständige Compliance-Dokumentation für den **EU Artificial Intelligence Act
 * Governance-Framework mit AI Literacy (Art. 4)
 * Konformitätsbewertung (Annex VI/VII) mit Go/No-Go-Strategie
 * Sanktionsregime (Art. 99) mit BAUER-Risikobewertung
+* Nationale Umsetzung in Schlüssel-Mitgliedstaaten (Deutschland/KI-MIG, Österreich, Frankreich, Spanien, Irland)
 * Compliance-Matrix mit Aufwandsschätzung und CRA-Synergien
 * 7 praxisfertige Templates
 

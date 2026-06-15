@@ -18,7 +18,7 @@ Annex I listet die EU-Harmonisierungsrechtsakte, bei denen KI-Systeme als **Sich
 
 ## Sektion B – Weitere Rechtsakte
 
-Sektion B umfasst zusätzliche Rechtsakte (Zivilluftfahrt, Fahrzeugsicherheit, etc.), bei denen die Hochrisiko-Einstufung erst ab **2. August 2027** greift.
+Sektion B umfasst zusätzliche Rechtsakte (Zivilluftfahrt, Fahrzeugsicherheit, etc.), bei denen die Hochrisiko-Einstufung erst ab **2. August 2028** greift (verschoben durch den Digital Omnibus; ursprünglich 2. August 2027). Für eingebettete Hochrisiko-KI in Annex-I-Produkten gilt damit insgesamt die Frist **2. August 2028**.
 
 ## BAUER GROUP Bewertung
 

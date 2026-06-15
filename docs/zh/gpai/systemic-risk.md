@@ -9,14 +9,18 @@ GPAI模型在以下情况下被归类为具有系统性风险：
 
 提供者必须在其模型满足该标准后**2周内**通知欧盟委员会。
 
-## 受影响的模型（截至2026年3月）
+## 受影响的模型（截至2026年6月）
 
-根据当前认知，被认为或可能被认为具有系统性风险的模型：
+举例而言，领先提供者最具能力的模型系列会受到影响：
 
-- GPT-4/4o (OpenAI)
-- Claude 3.5/4 (Anthropic)
-- Gemini Ultra/Pro (Google)
-- Llama 3.1 405B (Meta)
+- GPT 系列 (OpenAI)
+- Claude 系列 (Anthropic)
+- Gemini 系列 (Google)
+- Llama 系列 (Meta)
+
+::: tip 权威认定
+具有系统性风险的 GPAI 模型的权威清单由 **AI Office** 维护；各模型版本持续变化。评估时应始终参照 AI Office 的最新状态。
+:::
 
 ## BAUER GROUP相关性
 

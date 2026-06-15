@@ -137,7 +137,19 @@ export const en: LocaleSpecificConfig<ThemeConfig> & { label: string; link: stri
           ],
         },
         {
-          text: '10. Compliance Matrix',
+          text: '10. National Implementation',
+          collapsed: true,
+          items: [
+            { text: 'Overview', link: '/en/national-implementation/' },
+            { text: 'Germany (KI-MIG)', link: '/en/national-implementation/germany' },
+            { text: 'Austria', link: '/en/national-implementation/austria' },
+            { text: 'France', link: '/en/national-implementation/france' },
+            { text: 'Spain', link: '/en/national-implementation/spain' },
+            { text: 'Ireland', link: '/en/national-implementation/ireland' },
+          ],
+        },
+        {
+          text: '11. Compliance Matrix',
           collapsed: false,
           items: [
             { text: 'Requirements Mapping', link: '/en/compliance-matrix/' },

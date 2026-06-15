@@ -18,12 +18,13 @@ Each Member State was required to designate its competent authorities by **2 Aug
 
 ## Germany
 
-In Germany, responsibility is expected to lie with:
+In Germany, the **Bundesnetzagentur (BNetzA)** is the central market surveillance authority and single point of contact for the AI Act. The national authority architecture is set out in the **KI-MIG** (passed by the Bundestag on 11.06.2026, consent of the Bundesrat pending); sector-specific authorities (e.g. BaFin) retain their competencies.
 
-- **Bundesnetzagentur (BNetzA)** as the central market surveillance authority for the AI Act
-- Potentially sector-specific authorities for particular areas of application
+For details see [National Implementation – Germany (KI-MIG)](/en/national-implementation/germany).
 
-## Powers of the Authorities (from August 2026)
+## Powers of the Authorities
+
+Market surveillance authorities have the following powers (from 2 August 2026; for high-risk systems as the respective obligations become applicable — Annex III from 02.12.2027):
 
 - Access to AI systems and their documentation
 - Access to source code (under certain conditions)

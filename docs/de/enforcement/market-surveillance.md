@@ -18,12 +18,13 @@ Jeder Mitgliedstaat musste bis **2. August 2025** seine zuständigen Behörden b
 
 ## Deutschland
 
-In Deutschland liegt die Zuständigkeit voraussichtlich bei:
+In Deutschland ist die **Bundesnetzagentur (BNetzA)** die zentrale Marktüberwachungsbehörde und der Single Point of Contact für den AI Act. Die nationale Behördenarchitektur wird mit dem **KI-MIG** festgelegt (Bundestag-Beschluss 11.06.2026, Zustimmung des Bundesrats ausstehend); sektorale Behörden (z.B. BaFin) behalten ihre Zuständigkeiten.
 
-- **Bundesnetzagentur (BNetzA)** als zentrale Marktüberwachungsbehörde für den AI Act
-- Ggf. sektorale Behörden für spezifische Anwendungsbereiche
+Details siehe [Nationale Umsetzung – Deutschland (KI-MIG)](/de/national-implementation/germany).
 
-## Befugnisse der Behörden (ab August 2026)
+## Befugnisse der Behörden
+
+Die Marktüberwachungsbehörden verfügen über folgende Befugnisse (ab 2. August 2026; für Hochrisiko-Systeme mit Anwendbarkeit der jeweiligen Pflichten — Annex III ab 02.12.2027):
 
 - Zugang zu KI-Systemen und deren Dokumentation
 - Zugang zu Source Code (unter bestimmten Bedingungen)

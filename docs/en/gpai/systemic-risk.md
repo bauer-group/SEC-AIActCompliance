@@ -9,14 +9,18 @@ A GPAI model is classified as posing systemic risk if:
 
 Providers must notify the Commission **within 2 weeks** when their model meets this criterion.
 
-## Affected Models (as of March 2026)
+## Affected Models (as of June 2026)
 
-Models that, based on current knowledge, are or may be considered as posing systemic risk:
+By way of example, the most capable model families of leading providers are affected:
 
-- GPT-4/4o (OpenAI)
-- Claude 3.5/4 (Anthropic)
-- Gemini Ultra/Pro (Google)
-- Llama 3.1 405B (Meta)
+- GPT family (OpenAI)
+- Claude family (Anthropic)
+- Gemini family (Google)
+- Llama family (Meta)
+
+::: tip Authoritative designation
+The authoritative list of GPAI models with systemic risk is maintained by the **AI Office**; individual model versions change continuously. Always refer to the current status of the AI Office for the assessment.
+:::
 
 ## BAUER GROUP Relevance
 

@@ -29,3 +29,11 @@
 ### 4–8. Weitere Verbote
 
 **Status aller weiteren Verbotsgründe:** ✅ Nicht betroffen — keine Produkte in den Bereichen Kriminalitätsprognose, Gesichtserkennung, Emotionserkennung am Arbeitsplatz, biometrische Kategorisierung oder Echtzeit-Fernidentifikation.
+
+### 9. NCII/CSAM-Erzeugung (neu – Digital Omnibus)
+
+**Verbot:** KI-Systeme, die nicht-einvernehmliche intime Bilder (NCII) oder Darstellungen sexuellen Kindesmissbrauchs (CSAM) erzeugen oder manipulieren, sofern dies ein vernünftigerweise vorhersehbares und reproduzierbares Ergebnis ist. Ergänzt durch den Digital Omnibus (vorläufige Einigung 7. Mai 2026); Übergangsfrist bis **2. Dezember 2026** (vorbehaltlich der förmlichen Annahme).
+
+**BAUER GROUP Prüfung:** Keine BAUER GROUP Produkte erzeugen oder manipulieren Bildinhalte dieser Art.
+
+**Status:** ✅ Nicht betroffen

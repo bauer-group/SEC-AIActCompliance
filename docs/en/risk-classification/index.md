@@ -33,6 +33,10 @@ An Annex III system is **not** high-risk if it:
 If the AI system performs **profiling** of natural persons, it is **always** high-risk — the exception does not apply.
 :::
 
+::: tip Interpretation guidance from the European Commission (as of June 2026)
+On **19 May 2026** the European Commission published draft guidelines on the classification of high-risk AI systems under Art. 6 (public consultation open until 23 June 2026). They specify the classification criteria (Art. 6(5)) and provide practical examples of high-risk and non-high-risk systems — to be used as interpretation guidance once finalised.
+:::
+
 ## Classification Obligation
 
 Providers that classify an Annex III system as **non-high-risk** must **document this assessment before placing it on the market** (Art. 6(4)) and register it in the EU database (Art. 49(2)).

@@ -2,7 +2,7 @@
 
 ## Verordnung (EU) 2024/1689
 
-Der **EU Artificial Intelligence Act** (AI Act) ist die weltweit erste umfassende Regulierung für Künstliche Intelligenz. Die Verordnung trat am **1. August 2024** in Kraft und wird schrittweise bis **2. August 2027** vollständig anwendbar.
+Der **EU Artificial Intelligence Act** (AI Act) ist die weltweit erste umfassende Regulierung für Künstliche Intelligenz. Die Verordnung trat am **1. August 2024** in Kraft und wird schrittweise bis **2. August 2028** vollständig anwendbar (Hochrisiko-Fristen verschoben durch den Digital Omnibus – siehe [Zeitplan & Fristen](./timeline)).
 
 ::: warning BAUER GROUP Leitprinzip
 Diese Dokumentation dient der **regulatorischen Vollständigkeit nach außen**. Intern gilt: Jedes KI-System wird vor Markteintritt einer Go/No-Go-Bewertung unterzogen. Ist der Compliance-Aufwand unverhältnismäßig zum erwarteten Umsatz, wird das Produkt **nicht im EU-Binnenmarkt** angeboten. Der AI Act adressiert KI-Systeme — nicht Software im Allgemeinen.
@@ -38,7 +38,7 @@ Der AI Act gilt für:
 
 ## Dokumentationsstruktur
 
-Diese Dokumentation ist in 10 Kapitel + Anhang gegliedert und steht in DE/EN/ZH zur Verfügung. Sie bildet das regulatorische Gegenstück zur bestehenden CRA-Dokumentation und adressiert alle Pflichten, die sich aus dem AI Act für die BAUER GROUP als Anbieter und Betreiber von KI-gestützten Systemen ergeben.
+Diese Dokumentation ist in 11 Kapitel + Anhang gegliedert und steht in DE/EN/ZH zur Verfügung. Sie bildet das regulatorische Gegenstück zur bestehenden CRA-Dokumentation und adressiert alle Pflichten, die sich aus dem AI Act für die BAUER GROUP als Anbieter und Betreiber von KI-gestützten Systemen ergeben.
 
 ::: tip NIS2-Bezug
 Für die organisatorische Cybersicherheit (Betriebssicherheit, Risikomanagement, Meldepflichten) siehe die [NIS2-Compliance-Dokumentation](https://nis2.docs.bauer-group.com).

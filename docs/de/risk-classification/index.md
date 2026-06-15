@@ -33,6 +33,10 @@ Ein Annex-III-System ist **nicht** hochriskant, wenn es:
 Führt das KI-System **Profiling** natürlicher Personen durch, ist es **immer** hochriskant — die Ausnahme greift nicht.
 :::
 
+::: tip Auslegungshilfe der EU-Kommission (Stand Juni 2026)
+Die EU-Kommission hat am **19. Mai 2026** Entwurfsleitlinien zur Einstufung von Hochrisiko-KI-Systemen nach Art. 6 veröffentlicht (öffentliche Konsultation bis 23. Juni 2026). Sie konkretisieren die Klassifizierungskriterien (Art. 6 Abs. 5) und enthalten praktische Beispiele für hochriskante und nicht-hochriskante Systeme — als Auslegungshilfe heranzuziehen, sobald sie final vorliegen.
+:::
+
 ## Klassifizierungspflicht
 
 Provider die ein Annex-III-System als **nicht-hochriskant** einstufen, müssen diese Bewertung **vor Markteinführung dokumentieren** (Art. 6 Abs. 4) und in der EU-Datenbank registrieren (Art. 49 Abs. 2).

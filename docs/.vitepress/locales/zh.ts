@@ -137,7 +137,19 @@ export const zh: LocaleSpecificConfig<ThemeConfig> & { label: string; link: stri
           ],
         },
         {
-          text: '10. 合规矩阵',
+          text: '10. 国家层面落实',
+          collapsed: true,
+          items: [
+            { text: '概述', link: '/zh/national-implementation/' },
+            { text: '德国 (KI-MIG)', link: '/zh/national-implementation/germany' },
+            { text: '奥地利', link: '/zh/national-implementation/austria' },
+            { text: '法国', link: '/zh/national-implementation/france' },
+            { text: '西班牙', link: '/zh/national-implementation/spain' },
+            { text: '爱尔兰', link: '/zh/national-implementation/ireland' },
+          ],
+        },
+        {
+          text: '11. 合规矩阵',
           collapsed: false,
           items: [
             { text: '要求映射', link: '/zh/compliance-matrix/' },

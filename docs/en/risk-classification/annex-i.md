@@ -18,7 +18,7 @@ Annex I lists the EU harmonisation legislative acts under which AI systems may q
 
 ## Section B – Additional Legislative Acts
 
-Section B covers additional legislative acts (civil aviation, vehicle safety, etc.) for which the high-risk classification takes effect only from **2 August 2027**.
+Section B covers additional legislative acts (civil aviation, vehicle safety, etc.) for which the high-risk classification takes effect only from **2 August 2028** (postponed by the Digital Omnibus; originally 2 August 2027). For embedded high-risk AI in Annex I products the applicable deadline is therefore **2 August 2028**.
 
 ## BAUER GROUP Assessment
 
