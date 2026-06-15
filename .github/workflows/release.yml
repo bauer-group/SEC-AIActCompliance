@@ -48,6 +48,12 @@ jobs:
       run-tests: false
       run-audit: true
       audit-level: 'high'
+      # Static docs site: all dependencies are dev-only build tooling
+      # (vitepress/vite/esbuild) — nothing ships to a runtime. Audit only
+      # production dependencies so the gate is not blocked by unfixable
+      # dev-server advisories (e.g. esbuild GHSA-67mh-4wv8-2f99), while the
+      # high threshold stays in force for any runtime dependency added later.
+      audit-production-only: true
       upload-artifacts: false
 
   # ---------------------------------------------------------------------------
