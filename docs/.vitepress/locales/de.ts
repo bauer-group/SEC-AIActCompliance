@@ -77,7 +77,7 @@ export const de: LocaleSpecificConfig<ThemeConfig> & { label: string; link: stri
             { text: 'Daten & Data Governance (Art. 10)', link: '/de/high-risk-ai/data-governance' },
             { text: 'Technische Dokumentation (Art. 11)', link: '/de/high-risk-ai/technical-documentation' },
             { text: 'Protokollierung (Art. 12)', link: '/de/high-risk-ai/logging' },
-            { text: 'Transparenz (Art. 13)', link: '/de/high-risk-ai/transparenz' },
+            { text: 'Transparenz (Art. 13)', link: '/de/high-risk-ai/transparency' },
             { text: 'Menschliche Aufsicht (Art. 14)', link: '/de/high-risk-ai/human-oversight' },
             { text: 'Genauigkeit & Robustheit (Art. 15)', link: '/de/high-risk-ai/accuracy-robustness' },
             { text: 'Provider-Pflichten (Art. 16–21)', link: '/de/high-risk-ai/provider-obligations' },

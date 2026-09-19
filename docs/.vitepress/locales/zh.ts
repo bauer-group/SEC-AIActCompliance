@@ -77,7 +77,7 @@ export const zh: LocaleSpecificConfig<ThemeConfig> & { label: string; link: stri
             { text: '数据治理 (第10条)', link: '/zh/high-risk-ai/data-governance' },
             { text: '技术文档 (第11条)', link: '/zh/high-risk-ai/technical-documentation' },
             { text: '记录保存 (第12条)', link: '/zh/high-risk-ai/logging' },
-            { text: '透明度 (第13条)', link: '/zh/high-risk-ai/transparenz' },
+            { text: '透明度 (第13条)', link: '/zh/high-risk-ai/transparency' },
             { text: '人类监督 (第14条)', link: '/zh/high-risk-ai/human-oversight' },
             { text: '准确性与稳健性 (第15条)', link: '/zh/high-risk-ai/accuracy-robustness' },
             { text: '提供者义务 (第16-21条)', link: '/zh/high-risk-ai/provider-obligations' },
