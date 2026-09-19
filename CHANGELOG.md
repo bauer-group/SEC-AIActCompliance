@@ -1,3 +1,23 @@
+# Changelog
+
+All notable changes to this project are documented here. This file is maintained
+automatically by [semantic-release](https://github.com/semantic-release/semantic-release)
+on every release to `main`.
+
+## [1.1.6](https://github.com/bauer-group/SEC-AIActCompliance/compare/v1.1.5...v1.1.6) (2026-09-19)
+
+### 🐛 Bug Fixes
+
+* **ci:** added the missing permissions block ([80d2154](https://github.com/bauer-group/SEC-AIActCompliance/commit/80d21546af45d1172a7498157778e5bda988c3c1))
+* **sidebar:** corrected link to the transparency page ([de5a942](https://github.com/bauer-group/SEC-AIActCompliance/commit/de5a942ae88da43aaeabe6ff3a76f875fc74ef66))
+
+### 🔧 Maintenance
+
+* **ci:** removed redundant teams notification ([6af1f11](https://github.com/bauer-group/SEC-AIActCompliance/commit/6af1f11a26f52e99103b4f7021315e091a7ac8e8))
+* **ci:** updated GitHub Actions in the deploy workflow ([667ca7a](https://github.com/bauer-group/SEC-AIActCompliance/commit/667ca7afa53c43b85f95db295c33d1812b118767))
+* **codeowners:** reassigned ownership to core team [skip ci] ([bd1a265](https://github.com/bauer-group/SEC-AIActCompliance/commit/bd1a26525d84a7773739c08e64ed6d95215192c3))
+* **deps:** updated dev tooling and patched vulnerable dependencies ([8d7db63](https://github.com/bauer-group/SEC-AIActCompliance/commit/8d7db63c5c7eded8ac16e8f145adbf328ddd6fdb))
+
 ## [1.1.5](https://github.com/bauer-group/SEC-AIActCompliance/compare/v1.1.4...v1.1.5) (2026-03-26)
 
 ### 🐛 Bug Fixes
