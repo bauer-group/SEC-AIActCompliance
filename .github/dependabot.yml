@@ -46,11 +46,31 @@ updates:
       - "dependencies"
       - "npm"
     groups:
+      # Every patch and minor update in one PR per run, which the auto-merge
+      # caller (dependabot-maintenance.yml) merges once nodejs-pr.yml passed.
+      # 0.x packages are excluded: below 1.0.0 a minor counts as major for
+      # the auto-merge gate, would turn the whole group major and hold it
+      # open. They arrive as PRs of their own and wait for review. Remove a
+      # package from exclude-patterns once it reaches 1.0.
+      npm-minor-and-patch:
+        patterns:
+          - "*"
+        exclude-patterns:
+          - "markdownlint-cli2"
+          - "vitepress-plugin-rss"
+        update-types:
+          - "minor"
+          - "patch"
+      # Majors keep their groups and wait for review.
       vitepress:
         patterns:
           - "vitepress"
+        update-types:
+          - "major"
       dev-tooling:
         patterns:
           - "markdownlint-cli2"
           - "linkinator"
           - "rimraf"
+        update-types:
+          - "major"
