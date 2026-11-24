@@ -37,7 +37,7 @@
     "markdownlint-cli2": "^0.24.2",
     "rimraf": "^6.1.4",
     "vitepress": "^1.6.4",
-    "vitepress-plugin-rss": "^0.4.5"
+    "vitepress-plugin-rss": "^0.4.6"
   },
   "repository": {
     "type": "git",
